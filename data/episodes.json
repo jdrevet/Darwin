@@ -131,7 +131,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Livres"
    ],
    "topics": [
     "mémoire",
@@ -480,7 +481,8 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société"
    ],
    "topics": [
     "Oliver Sacks",
@@ -540,7 +542,8 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société"
    ],
    "topics": [
     "Oliver Sacks",
@@ -664,7 +667,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société"
    ],
    "topics": [
     "art et souffrance",
@@ -893,7 +897,9 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Livres",
+    "Société"
    ],
    "topics": [
     "lecture",
@@ -1070,7 +1076,8 @@
    "films": [],
    "themes": [
     "Arts et Divertissement",
-    "Société"
+    "Société",
+    "Livres"
    ],
    "topics": [
     "inconscient",
@@ -1204,7 +1211,8 @@
    "films": [],
    "themes": [
     "Arts et Divertissement",
-    "Société"
+    "Société",
+    "Livres"
    ],
    "topics": [
     "synesthésie",
@@ -1408,7 +1416,8 @@
    "films": [],
    "themes": [
     "Arts et Divertissement",
-    "Livres"
+    "Livres",
+    "Société"
    ],
    "topics": [
     "microbiote intestinal",
@@ -2048,7 +2057,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Politique"
    ],
    "topics": [
     "fourmi",
@@ -2125,7 +2135,9 @@
    "themes": [
     "Arts et Divertissement",
     "Société",
-    "Livres"
+    "Livres",
+    "Sciences et Savoirs",
+    "Sciences"
    ],
    "topics": [
     "agriculture",
@@ -2188,7 +2200,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Livres"
    ],
    "topics": [
     "labyrinthe",
@@ -2422,7 +2435,14 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société",
+    "Sciences et Savoirs",
+    "Philosophie",
+    "Sciences",
+    "Histoire",
+    "Livres",
+    "Poésie"
    ],
    "topics": [
     "développement embryonnaire",
@@ -2830,7 +2850,10 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société",
+    "Sciences et Savoirs",
+    "Sciences"
    ],
    "topics": [
     "comète",
@@ -3018,7 +3041,14 @@
     }
    ],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Cinéma",
+    "Sciences",
+    "Histoire",
+    "Poésie",
+    "Astronomie"
    ],
    "topics": [
     "désert d'Atacama",
@@ -3434,7 +3464,12 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Sciences",
+    "Poésie",
+    "Recherche — Découvertes scientifiques"
    ],
    "topics": [
     "mémoire autobiographique",
@@ -3600,7 +3635,12 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Neurosciences",
+    "Sciences et Savoirs",
+    "Livres",
+    "Sciences",
+    "Poésie"
    ],
    "topics": [
     "synesthésie",
@@ -3770,7 +3810,13 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Sciences",
+    "Histoire",
+    "Poésie",
+    "Astronomie"
    ],
    "topics": [
     "cristal de neige",
@@ -4210,7 +4256,12 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Animaux",
+    "Sciences et Savoirs",
+    "Livres",
+    "Sciences",
+    "Zoologie"
    ],
    "topics": [
     "communication animale",
@@ -4985,7 +5036,8 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société"
    ],
    "topics": [
     "abeille",
@@ -5244,7 +5296,14 @@
    "films": [],
    "themes": [
     "Arts et Divertissement",
-    "Société"
+    "Société",
+    "Animaux",
+    "Neurosciences",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences",
+    "Zoologie"
    ],
    "topics": [
     "corvidé",
@@ -5333,7 +5392,8 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société"
    ],
    "topics": [
     "bioacoustique",
@@ -5911,7 +5971,9 @@
     "Sciences et Savoirs",
     "Livres",
     "Histoire",
-    "Sciences"
+    "Sciences",
+    "Société",
+    "Philosophie"
    ],
    "topics": [
     "rêve lucide",
@@ -6088,7 +6150,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Société"
    ],
    "topics": [
     "développement du cerveau fœtal",
@@ -6181,7 +6244,9 @@
    "films": [],
    "themes": [
     "Arts et Divertissement",
-    "Société"
+    "Société",
+    "Sciences et Savoirs",
+    "Sciences"
    ],
    "topics": [
     "rêve",
@@ -6749,7 +6814,8 @@
    "films": [],
    "themes": [
     "Arts et Divertissement",
-    "Livres"
+    "Livres",
+    "Homère"
    ],
    "topics": [
     "Ulysse",
@@ -6831,7 +6897,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Livres"
    ],
    "topics": [
     "prosopagnosie",
@@ -7040,7 +7107,11 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences"
    ],
    "topics": [
     "illusion de fin de l'histoire",
@@ -7447,7 +7518,10 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Sciences",
+    "Livres"
    ],
    "topics": [
     "décodage cérébral des rêves",
@@ -8843,7 +8917,8 @@
     "Sciences et Savoirs",
     "Livres",
     "Sciences",
-    "Zoologie"
+    "Zoologie",
+    "Neurosciences"
    ],
    "topics": [
     "expression des émotions",
@@ -9027,7 +9102,14 @@
    "themes": [
     "Arts et Divertissement",
     "Sciences et Savoirs",
-    "Sciences"
+    "Sciences",
+    "Animaux",
+    "Neurosciences",
+    "Histoire",
+    "Philosophie",
+    "Livres",
+    "Poésie",
+    "Zoologie"
    ],
    "topics": [
     "bonobo",
@@ -9680,7 +9762,8 @@
     "Sciences et Savoirs",
     "Livres",
     "Histoire",
-    "Sciences"
+    "Sciences",
+    "Poésie"
    ],
    "topics": [
     "archéologie acoustique",
@@ -11092,7 +11175,11 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Sciences",
+    "Exploration et conquête spatiales"
    ],
    "topics": [
     "maîtrise du feu",
@@ -11756,7 +11843,8 @@
     "Sciences",
     "Livres",
     "Zoologie",
-    "Poésie"
+    "Poésie",
+    "Histoire"
    ],
    "topics": [
     "apprentissage prénatal",
@@ -12072,7 +12160,11 @@
     "Sciences et Savoirs",
     "Livres",
     "Philosophie",
-    "Sciences"
+    "Sciences",
+    "Oiseaux",
+    "Archéologie",
+    "Poésie",
+    "Zoologie"
    ],
    "topics": [
     "migration des oiseaux",
@@ -12729,7 +12821,11 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Solidarité",
+    "Handicap",
+    "Livres",
+    "Poésie"
    ],
    "topics": [
     "autisme",
@@ -13106,7 +13202,8 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Livres"
    ],
    "topics": [
     "papyrus d'Herculanum",
@@ -13510,7 +13607,9 @@
    "films": [],
    "themes": [
     "Neurosciences",
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Sciences"
    ],
    "topics": [
     "Oliver Sacks",
@@ -14188,7 +14287,10 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Prix Nobel",
+    "Monde",
+    "Livres"
    ],
    "topics": [
     "droits humains",
@@ -14413,7 +14515,8 @@
     "Arts et Divertissement",
     "Sciences et Savoirs",
     "Livres",
-    "Sciences"
+    "Sciences",
+    "Histoire"
    ],
    "topics": [
     "tectonique des plaques",
@@ -14991,7 +15094,8 @@
     "Génétique",
     "Arts et Divertissement",
     "Sciences et Savoirs",
-    "Sciences"
+    "Sciences",
+    "Histoire"
    ],
    "topics": [
     "âge de la Terre",
@@ -15168,7 +15272,8 @@
     "Arts et Divertissement",
     "Sciences et Savoirs",
     "Histoire",
-    "Sciences"
+    "Sciences",
+    "Livres"
    ],
    "topics": [
     "âge de la Terre",
@@ -15344,7 +15449,12 @@
     "Environnement",
     "Sciences et Savoirs",
     "Histoire",
-    "Sciences"
+    "Sciences",
+    "Société",
+    "Santé",
+    "Livres",
+    "Médecine",
+    "Sciences physiques"
    ],
    "topics": [
     "radioactivité",
@@ -15550,7 +15660,8 @@
     "Arts et Divertissement",
     "Sciences et Savoirs",
     "Livres",
-    "Sciences"
+    "Sciences",
+    "Histoire"
    ],
    "topics": [
     "Pierre Curie",
@@ -15635,7 +15746,10 @@
     "Livres",
     "Histoire",
     "Sciences",
-    "Poésie"
+    "Poésie",
+    "Mythologie",
+    "Philosophie",
+    "Exploration et conquête spatiales"
    ],
    "topics": [
     "cosmologie",
@@ -15752,7 +15866,9 @@
     "Livres",
     "Histoire",
     "Sciences",
-    "Poésie"
+    "Poésie",
+    "Mythologie",
+    "Exploration et conquête spatiales"
    ],
    "topics": [
     "relativité",
@@ -16014,7 +16130,11 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences"
    ],
    "topics": [
     "récit de voyage",
@@ -16184,7 +16304,9 @@
     "Livres",
     "Histoire",
     "Philosophie",
-    "Sciences"
+    "Sciences",
+    "Neurosciences",
+    "Poésie"
    ],
    "topics": [
     "maladie d'Alzheimer",
@@ -16352,7 +16474,15 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Animaux",
+    "Sciences et Savoirs",
+    "Histoire",
+    "Sciences",
+    "Livres",
+    "Poésie",
+    "Archéologie",
+    "Zoologie"
    ],
    "topics": [
     "grand indicateur (oiseau)",
@@ -16445,7 +16575,8 @@
     "Sciences et Savoirs",
     "Asie",
     "Sciences",
-    "Chine"
+    "Chine",
+    "Philosophie"
    ],
    "topics": [
     "philosophie chinoise",
@@ -16536,7 +16667,12 @@
     "Sciences et Savoirs",
     "Asie",
     "Philosophie",
-    "Chine"
+    "Chine",
+    "Livres",
+    "Histoire",
+    "Sciences",
+    "Poésie",
+    "Archéologie"
    ],
    "topics": [
     "taoïsme",
@@ -16629,7 +16765,12 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences",
+    "Archéologie"
    ],
    "topics": [
     "mythe du déluge",
@@ -16711,7 +16852,11 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences"
    ],
    "topics": [
     "passage du Nord-Ouest",
@@ -16797,7 +16942,8 @@
     "Sciences",
     "Histoire",
     "Climat",
-    "Catastrophes naturelles"
+    "Catastrophes naturelles",
+    "Livres"
    ],
    "topics": [
     "faille de Cascadia",
@@ -16899,7 +17045,9 @@
     "Histoire",
     "Asie",
     "Japon",
-    "Catastrophes naturelles"
+    "Catastrophes naturelles",
+    "Katsushika Hokusai",
+    "Sciences"
    ],
    "topics": [
     "tsunami orphelin de 1700",
@@ -16999,7 +17147,15 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences",
+    "Poésie",
+    "Tremblement de terre",
+    "Sciences sociales",
+    "Anthropologie"
    ],
    "topics": [
     "Claude Lévi-Strauss",
@@ -17342,7 +17498,9 @@
     "Sciences et Savoirs",
     "Livres",
     "Sciences",
-    "Zoologie"
+    "Zoologie",
+    "Neurosciences",
+    "Poésie"
    ],
    "topics": [
     "émotions chez le chien",
@@ -17651,7 +17809,14 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Animaux",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences",
+    "Zoologie",
+    "Philosophie"
    ],
    "topics": [
     "faune abyssale",
@@ -17737,7 +17902,14 @@
    "films": [],
    "themes": [
     "Mythologie",
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Livres",
+    "Animaux",
+    "Sciences et Savoirs",
+    "Sciences",
+    "Histoire",
+    "Zoologie",
+    "Poésie"
    ],
    "topics": [
     "poulpe",
@@ -17827,7 +17999,12 @@
     "Mers et océans",
     "Arts et Divertissement",
     "Sciences et Savoirs",
-    "Philosophie"
+    "Philosophie",
+    "Animaux",
+    "Livres",
+    "Histoire",
+    "Sciences",
+    "Zoologie"
    ],
    "topics": [
     "seiche",
@@ -17970,7 +18147,14 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Animaux",
+    "Sciences et Savoirs",
+    "Sciences",
+    "Livres",
+    "Histoire",
+    "Zoologie",
+    "Poésie"
    ],
    "topics": [
     "hippocampe (poisson)",
@@ -18058,7 +18242,11 @@
     "Société",
     "Sciences et Savoirs",
     "Livres",
-    "Sciences"
+    "Sciences",
+    "Romain Gary",
+    "Histoire",
+    "Neurosciences",
+    "Poésie"
    ],
    "topics": [
     "maternité",
@@ -18320,7 +18508,9 @@
     "Livres",
     "Histoire",
     "Archéologie",
-    "Poésie"
+    "Poésie",
+    "Innovation",
+    "Mythologie"
    ],
    "topics": [
     "temps du Rêve aborigène",
@@ -18421,7 +18611,15 @@
    ],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Génétique",
+    "Sciences et Savoirs",
+    "Histoire",
+    "Sciences",
+    "Livres",
+    "Poésie",
+    "Biologie",
+    "Archéologie"
    ],
    "topics": [
     "peuplement de l'Australie",
@@ -18866,7 +19064,9 @@
     "Livres",
     "Histoire",
     "Archéologie",
-    "Poésie"
+    "Poésie",
+    "Neurosciences",
+    "Philosophie"
    ],
    "topics": [
     "ADN ancien",
@@ -19273,7 +19473,10 @@
     "Sciences et Savoirs",
     "Livres",
     "Sciences",
-    "Zoologie"
+    "Zoologie",
+    "Philosophie",
+    "Neurosciences",
+    "Histoire"
    ],
    "topics": [
     "reconnaissance des visages",
@@ -19835,7 +20038,9 @@
     "Sciences et Savoirs",
     "Livres",
     "Santé",
-    "Sciences"
+    "Sciences",
+    "Histoire",
+    "Poésie"
    ],
    "topics": [
     "horloge circadienne",
@@ -19910,7 +20115,11 @@
     "Sciences et Savoirs",
     "Livres",
     "Histoire",
-    "Sciences"
+    "Sciences",
+    "Monde",
+    "Philosophie",
+    "Asie",
+    "Japon"
    ],
    "topics": [
     "longitude",
@@ -20165,7 +20374,12 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sommeil",
+    "Sciences et Savoirs",
+    "Livres",
+    "Histoire",
+    "Sciences"
    ],
    "topics": [
     "régulation du sommeil",
@@ -20260,7 +20474,10 @@
     "Sciences et Savoirs",
     "Livres",
     "Sciences",
-    "Poésie"
+    "Poésie",
+    "Mythologie",
+    "Société",
+    "Santé"
    ],
    "topics": [
     "sommeil",
@@ -20344,7 +20561,8 @@
     "Sciences",
     "Philosophie",
     "Livres",
-    "Santé"
+    "Santé",
+    "Sommeil"
    ],
    "topics": [
     "sommeil",
@@ -20430,7 +20648,10 @@
     "Sciences",
     "Zoologie",
     "Biologie",
-    "Astronomie"
+    "Astronomie",
+    "Société",
+    "Santé",
+    "Histoire"
    ],
    "topics": [
     "comète",
@@ -21073,7 +21294,11 @@
     "Arts et Divertissement",
     "Sciences et Savoirs",
     "Sciences",
-    "Archéologie"
+    "Archéologie",
+    "Mythologie",
+    "Livres",
+    "Homère",
+    "Histoire"
    ],
    "topics": [
     "guerre de Troie",
@@ -21674,7 +21899,13 @@
     "Sciences et Savoirs",
     "Livres",
     "Sciences",
-    "Archéologie"
+    "Archéologie",
+    "Littérature étrangère",
+    "Histoire",
+    "Philosophie",
+    "Arts visuels",
+    "Peinture – Sculpture",
+    "Poésie"
    ],
    "topics": [
     "codex mésoaméricains",
@@ -22144,7 +22375,13 @@
    "links": [],
    "films": [],
    "themes": [
-    "Arts et Divertissement"
+    "Arts et Divertissement",
+    "Sciences et Savoirs",
+    "Environnement",
+    "Histoire",
+    "Pollution",
+    "Sciences",
+    "Archéologie"
    ],
    "topics": [
     "carotte de glace antarctique",
@@ -22230,7 +22467,14 @@
     "Histoire",
     "Sciences",
     "Livres",
-    "Poésie"
+    "Poésie",
+    "Animaux",
+    "Société",
+    "Zoologie",
+    "Archéologie",
+    "Économie",
+    "Entreprises – Marchés",
+    "Agriculture"
    ],
    "topics": [
     "origines du pain",
@@ -22448,7 +22692,10 @@
     "Alimentation",
     "Livres",
     "Sciences",
-    "Archéologie"
+    "Archéologie",
+    "Économie",
+    "Entreprises – Marchés",
+    "Agriculture"
    ],
    "topics": [
     "bière",
@@ -23753,7 +24000,8 @@
     "Livres",
     "Histoire",
     "Zoologie",
-    "Poésie"
+    "Poésie",
+    "Société"
    ],
    "topics": [
     "bioacoustique",
@@ -23841,7 +24089,9 @@
     "Livres",
     "Histoire",
     "Sciences",
-    "Poésie"
+    "Poésie",
+    "Animaux",
+    "Zoologie"
    ],
    "topics": [
     "François Huber",
@@ -23931,7 +24181,9 @@
     "Livres",
     "Histoire",
     "Sciences",
-    "Poésie"
+    "Poésie",
+    "Animaux",
+    "Zoologie"
    ],
    "topics": [
     "communication chez les abeilles",
@@ -24805,7 +25057,9 @@
     "Sciences et Savoirs",
     "Histoire",
     "Sciences",
-    "Zoologie"
+    "Zoologie",
+    "Livres",
+    "Poésie"
    ],
    "topics": [
     "bioluminescence",
@@ -25117,7 +25371,8 @@
     "Livres",
     "Histoire",
     "Sciences",
-    "Zoologie"
+    "Zoologie",
+    "Musiques – Actualité musicale"
    ],
    "topics": [
     "rayonnement infrarouge",
@@ -25565,7 +25820,8 @@
     "Livres",
     "Histoire",
     "Zoologie",
-    "Poésie"
+    "Poésie",
+    "Expositions"
    ],
    "topics": [
     "conte",
@@ -26097,7 +26353,9 @@
     "Histoire",
     "Sciences",
     "Livres",
-    "Poésie"
+    "Poésie",
+    "Animaux",
+    "Zoologie"
    ],
    "topics": [
     "cognition animale",
@@ -26583,7 +26841,9 @@
     "Sciences",
     "Histoire",
     "Livres",
-    "Zoologie"
+    "Zoologie",
+    "Monde",
+    "Afrique"
    ],
    "topics": [
     "David Livingstone",
@@ -26754,7 +27014,11 @@
     "Livres",
     "Histoire",
     "Archéologie",
-    "Poésie"
+    "Poésie",
+    "Monde",
+    "Afrique",
+    "Proche et Moyen-Orient",
+    "Égypte"
    ],
    "topics": [
     "bataille d'Aboukir",

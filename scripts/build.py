@@ -175,6 +175,8 @@ for n,rows in sorted(eps.items()):
         'standfirst':best and best['standfirst'] and not is_rerun_notice(best['standfirst']) and best['standfirst'] or None,
         'intro':best and '\n\n'.join(t for t in map(strip_rerun,best['intro']) if t) or None,
         **{k:(best[k] if best else []) for k in ('articles','books','songs','links','films','themes','team')},
+        # radiofrance.fr tagging varies between reruns (often richer on recent pages): keep them all
+        'themes':list(dict.fromkeys(t for c in [best]+[c for c,_ in cands] if c for t in c['themes'])),
         'broadcasts':[{'number':w['n'],'date':str(w['date']),'rerun':i} for i,w in enumerate(rows)],
     })
 # topics generated once by an LLM, see data/topics.json
