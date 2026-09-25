@@ -1177,7 +1177,7 @@
    "id": 21,
    "title": "Inventer des couleurs, frissonner en écoutant de la musique : le désir, le plaisir et la joie de ressentir (1)",
    "series": {
-    "name": "Inventer des couleurs, frissonner en écoutant de la musique : le désir, le plaisir et la joie de ressentir",
+    "name": "Ressentir",
     "part": 1
    },
    "firstBroadcast": "2011-02-12",
@@ -1244,7 +1244,7 @@
    "id": 22,
    "title": "La musique, le toucher, la douleur, la peur, l'espoir, la confiance : Ressentir (2)",
    "series": {
-    "name": "La musique, le toucher, la douleur, la peur, l'espoir, la confiance : Ressentir",
+    "name": "Ressentir",
     "part": 2
    },
    "firstBroadcast": "2011-02-19",
@@ -1323,7 +1323,10 @@
   {
    "id": 23,
    "title": "La course de la Reine rouge",
-   "series": null,
+   "series": {
+    "name": "La course de la Reine rouge",
+    "part": 1
+   },
    "firstBroadcast": "2011-02-26",
    "rerunCount": 0,
    "durationSeconds": 3288,
@@ -4249,7 +4252,7 @@
    "id": 61,
    "title": "les battements du temps (22)",
    "series": {
-    "name": "les battements du temps",
+    "name": "Les battements du temps",
     "part": 22
    },
    "firstBroadcast": "2012-02-18",
@@ -9982,7 +9985,7 @@
    "id": 132,
    "title": "À la découverte de Neandertal en nous… (1)",
    "series": {
-    "name": "À la découverte de Neandertal en nous…",
+    "name": "À la découverte de Neandertal en nous",
     "part": 1
    },
    "firstBroadcast": "2014-04-12",
@@ -10804,7 +10807,7 @@
    "id": 143,
    "title": "Une hérédité des caractères acquis? (1)",
    "series": {
-    "name": "Une hérédité des caractères acquis?",
+    "name": "Une hérédité des caractères acquis ?",
     "part": 1
    },
    "firstBroadcast": "2014-09-13",
@@ -10899,7 +10902,7 @@
    "id": 144,
    "title": "Une hérédité des caractères acquis (2)",
    "series": {
-    "name": "Une hérédité des caractères acquis",
+    "name": "Une hérédité des caractères acquis ?",
     "part": 2
    },
    "firstBroadcast": "2014-09-20",
@@ -12414,7 +12417,7 @@
    "id": 163,
    "title": "Voyage avec Oliver Sacks (3)",
    "series": {
-    "name": "Voyage avec Oliver Sacks",
+    "name": "Un voyage avec Oliver Sacks",
     "part": 3
    },
    "firstBroadcast": "2015-02-28",
@@ -18112,7 +18115,10 @@
   {
    "id": 235,
    "title": "Arpenter le monde",
-   "series": null,
+   "series": {
+    "name": "Arpenter le monde",
+    "part": 1
+   },
    "firstBroadcast": "2017-02-25",
    "rerunCount": 0,
    "durationSeconds": 3305,
@@ -26456,7 +26462,10 @@
   {
    "id": 336,
    "title": "Là où l’eau et le ciel se rejoignent.",
-   "series": null,
+   "series": {
+    "name": "Entre le ciel et l'eau",
+    "part": 1
+   },
    "firstBroadcast": "2020-02-15",
    "rerunCount": 0,
    "durationSeconds": 3252,

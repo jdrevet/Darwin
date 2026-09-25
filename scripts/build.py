@@ -4,6 +4,17 @@ exec(open('scripts/compare.py').read().split("wd=collections.Counter")[0])   # W
 # --- corrections to Wikipedia
 DATE_FIX={118:dt.date(2012,12,1),119:dt.date(2012,12,8),279:dt.date(2016,1,30)}
 EP_FIX={518:191,531:95}
+# series fixes by episode id: typo variants of a series name, varying names, unnumbered part 1
+SERIES_FIX={
+    61:('Les battements du temps',22),
+    132:('À la découverte de Neandertal en nous',1),
+    143:('Une hérédité des caractères acquis ?',1),144:('Une hérédité des caractères acquis ?',2),
+    21:('Ressentir',1),22:('Ressentir',2),
+    163:('Un voyage avec Oliver Sacks',3),
+    23:('La course de la Reine rouge',1),
+    235:('Arpenter le monde',1),
+    336:("Entre le ciel et l'eau",1),
+}
 for w in W:
     w['date']=DATE_FIX.get(w['n'],w['date']); w['ep']=EP_FIX.get(w['n'],w['ep'])
     w['title']=re.sub(r"'''?|\[\[(?:[^|\]]*\|)?([^\]]*)\]\]",lambda m:m[1] or '',w['title']).strip()
@@ -132,6 +143,7 @@ for n,rows in sorted(eps.items()):
     cands=[(content(e),e) for w,e in pages if e]
     best=max(cands,key=lambda c:richness(c[0]))[0] if cands else None
     ser,sub=series(first['title'])
+    if n in SERIES_FIX: ser={'name':SERIES_FIX[n][0],'part':SERIES_FIX[n][1]}
     teaser=next((re.sub(r"'''?|''",'',w_raw) for w_raw in [None] if w_raw),None)
     out.append({
         'id':n,'title':first['title'],'series':ser,

@@ -66,6 +66,11 @@ rediffusion qui citent la date de l'original). Corrections dans `build.py` :
 - Rattachements (`EP_FIX`) : diffusion n° 518 « La tectonique des plaques » →
   émission n° 191 (et non 40) ; n° 531 « Habiter notre corps » → émission n° 95
   (et non 131).
+- Séries (`SERIES_FIX`, par n° d'émission) : variantes de typo du nom (« les battements
+  du temps », « Neandertal en nous… », « acquis? »), noms variables (« Ressentir » 1 et 2,
+  « Voyage avec Oliver Sacks (3) » rattaché à « Un voyage avec Oliver Sacks »), parties 1
+  sans numéro (« La course de la Reine rouge », « Arpenter le monde », « Là où l’eau et le
+  ciel se rejoignent » pour « Entre le ciel et l'eau »).
 - Les marqueurs R1/R2… de Wikipédia sont incohérents (doublons, trous) : ils
   sont ignorés, `rerun` et `rerunCount` sont recalculés en comptant les diffusions.
 
