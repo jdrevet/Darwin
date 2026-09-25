@@ -15,6 +15,19 @@ SERIES_FIX={
     235:('Arpenter le monde',1),
     336:("Entre le ciel et l'eau",1),
 }
+# --- corrections to radiofrance.fr texts: DOIs and URLs broken by typos or stray spaces
+TEXT_FIX=[
+    ('10/1016/j.cub.2011.01056','10.1016/j.cub.2011.01.056'),
+    ('j.cub.2010.09. 017','j.cub.2010.09.017'),
+    ('DOI.10.1016/j.cub.2011.10.032','DOI:10.1016/j.cub.2011.10.032'),
+    ('http://darwin-online. org.uk/','http://darwin-online.org.uk/'),
+    ('royalsocietypublishing.org/content/ear ly/','royalsocietypublishing.org/content/early/'),
+    ('psyche/1945/065236 /abs/','psyche/1945/065236/abs/'),
+    ('(p. 89-96)https://archive.org/stream/diversjeuxrusti00bellgoog / page/','(p. 89-96) https://archive.org/stream/diversjeuxrusti00bellgoog/page/'),
+]
+def fix_text(t):
+    for a,b in TEXT_FIX: t=t.replace(a,b)
+    return t
 for w in W:
     w['date']=DATE_FIX.get(w['n'],w['date']); w['ep']=EP_FIX.get(w['n'],w['ep'])
     w['title']=re.sub(r"'''?|\[\[(?:[^|\]]*\|)?([^\]]*)\]\]",lambda m:m[1] or '',w['title']).strip()
@@ -112,9 +125,9 @@ def content(e):
             continue
         t=text(inner)
         if not t or t in('.','**'): continue
-        if sec=='intro': out['intro'].append(t)
+        if sec=='intro': out['intro'].append(fix_text(t))
         elif sec in ('songs','books','articles'):
-            t=re.sub(r'\s*#+\s*',' / ',re.sub(r'_','',t.replace('\n',' '))).strip(' -•/')
+            t=fix_text(re.sub(r'\s*#+\s*',' / ',re.sub(r'_','',t.replace('\n',' '))).strip(' -•/'))
             if sec=='songs' and hint: t=f"{hint} – {t}"
             if t: out[sec].append(t)
         elif sec=='links':

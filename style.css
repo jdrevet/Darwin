@@ -219,6 +219,7 @@ tr.detail > td { background: var(--raised); padding: 4px 20px 24px; border-radiu
 .actions a:hover { opacity: 0.85; }
 .teaser { font-style: italic; color: var(--muted); }
 .standfirst { font-weight: 600; }
+.intro a { overflow-wrap: anywhere; }
 .intro { white-space: pre-line; font-size: 1.02rem; line-height: 1.6; }
 .refs h3 { margin: 18px 0 4px; font-size: 0.78rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--accent); }
 .refs ul { margin: 0; padding-left: 20px; }

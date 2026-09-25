@@ -22,6 +22,34 @@ const open = new Set();
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => (
   { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
+const extLink = (url, text) => `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>`;
+
+// Rend cliquables les liens markdown [texte](url), les URL brutes et les DOI ; échappe le reste.
+const LINK_RE = /\[([^\]]+)\]\(([^)]+)\)|https?:\/\/[^\s<>"]+|\bdoi\s*:?\s*(10\.\d{4,}\/[^\s,;]+)/gi;
+function linkify(s) {
+  s = String(s ?? '');
+  let out = '';
+  let last = 0;
+  for (const m of s.matchAll(LINK_RE)) {
+    const [, mdText, mdUrl, doi] = m;
+    let html;
+    if (mdText) {
+      html = extLink(mdUrl.replace(/\s+/g, ''), mdText);
+    } else {
+      // La ponctuation finale appartient à la phrase, sauf une « ) » qui ferme une « ( » de l'URL.
+      let str = m[0];
+      let trail = str.match(/[.,;:!?)\]]+$/)?.[0] ?? '';
+      if (trail.startsWith(')') && str.includes('(')) trail = trail.slice(1);
+      str = str.slice(0, str.length - trail.length);
+      const url = doi ? `https://doi.org/${str.replace(/^doi\s*:?\s*/i, '')}` : str;
+      html = extLink(url, str) + esc(trail);
+    }
+    out += esc(s.slice(last, m.index)) + html;
+    last = m.index + m[0].length;
+  }
+  return out + esc(s.slice(last));
+}
+
 const fold = (s) => s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
 
 const dateFmt = new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'short', year: 'numeric' });
@@ -205,7 +233,7 @@ function listSection(label, items, fmt = esc) {
 }
 
 function detailHtml(e) {
-  const linkFmt = (l) => (l.url ? `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.text || l.url)}</a>` : esc(l.text));
+  const linkFmt = (l) => (l.url ? extLink(l.url, l.text || l.url) : esc(l.text));
   const broadcasts = e.broadcasts.map((b) => `${fmtDate(b.date, longDateFmt)}${b.rerun ? ` <span class="muted">(rediffusion ${b.rerun})</span>` : ''}`);
   const themes = e.themes.filter((t) => !IGNORED_THEMES.has(t));
   return `<tr class="detail" data-for="${e.id}"><td colspan="7"><div class="detail-body">
@@ -218,10 +246,10 @@ function detailHtml(e) {
     </div>
     ${e.teaser ? `<p class="teaser">${esc(e.teaser)}</p>` : ''}
     ${e.standfirst && e.standfirst !== e.title ? `<p class="standfirst">${esc(e.standfirst)}</p>` : ''}
-    ${e.intro ? `<div class="intro">${esc(e.intro)}</div>` : ''}
+    ${e.intro ? `<div class="intro">${linkify(e.intro)}</div>` : ''}
     <div class="refs">
-      ${listSection('Articles scientifiques', e.articles)}
-      ${listSection('Livres', e.books)}
+      ${listSection('Articles scientifiques', e.articles, linkify)}
+      ${listSection('Livres', e.books, linkify)}
       ${listSection('Films', e.films, linkFmt)}
       ${listSection('Chansons', e.songs)}
       ${listSection('Liens', e.links, linkFmt)}
