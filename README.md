@@ -126,9 +126,15 @@ ou de la page de diffusion la plus riche quand celle de l'original est vide.
   une passe de regroupement vers ~100 sujets larges serait nécessaire pour ça.
 - Une émission n'a pas de MP3.
 
-## Prochaine étape
+## Site
 
-Écrire le site : tableau (titre, série, date, durée, rediffusions, sujets),
-tri par colonne, filtres (série, année, thème), recherche plein texte sur
-titre, intro, sujets et références, lien vers la page radiofrance.fr et
-lecture du MP3.
+`index.html` + `app.js` + `style.css`, seule dépendance : MiniSearch (CDN, version figée avec SRI).
+Le tableau est écrit à la main (339 lignes, pas besoin de Tabulator).
+
+- Recherche plein texte (titre, série, sujets, teasing, intro, références), insensible
+  aux accents, préfixe et tolérance aux fautes ; résultats triés par pertinence.
+- Filtres : série (ou en série / hors série), année, thème radiofrance.fr, nombre minimal de rediffusions.
+- Tri par colonne (clic sur l'en-tête). Clic sur un sujet : le recherche ; sur une série : la filtre.
+- Clic sur une ligne : détail (lecteur MP3, lien radiofrance.fr, intro, références, diffusions).
+- L'état (recherche, filtres, tri, lignes ouvertes) est dans l'URL (`#q=…&sort=rerunCount:desc`),
+  donc partageable.
