@@ -28,6 +28,12 @@ TEXT_FIX=[
 def fix_text(t):
     for a,b in TEXT_FIX: t=t.replace(a,b)
     return t
+# rerun notices ("Cette émission est une rediffusion de l'émission du 5 mai 2012") are not part of the content
+RERUN=re.compile(r"^[\s►>(]*(?:Exceptionnellement,?\s+|[AÀ] l.occasion d[^,]*,\s+)?(?:Cette émission est\s+)?(?:une |la )?(?:re|nouvelle )diffusion\s+"
+    r"(?:de l.émission |de celle |d.une émission )?(?:du |de )?(?:samedi\s+)?(?:\d{1,2}\s*(?:er)?\s+)?\w+\.?\s+\d{4}\)?"
+    r"(?:, une nouvelle série[^.]*\.)?[.,]?\s*>?\s*",re.I)
+def strip_rerun(t): return RERUN.sub('',t)
+def is_rerun_notice(t): return bool(re.search(r'rediffusion|nouvelle diffusion',t,re.I)) or t.strip()=='*'
 for w in W:
     w['date']=DATE_FIX.get(w['n'],w['date']); w['ep']=EP_FIX.get(w['n'],w['ep'])
     w['title']=re.sub(r"'''?|\[\[(?:[^|\]]*\|)?([^\]]*)\]\]",lambda m:m[1] or '',w['title']).strip()
@@ -166,8 +172,8 @@ for n,rows in sorted(eps.items()):
         'audioUrl':of and of['audio'],'pageUrl':of and of['url'],
         'imageUrl':best and best['image'],
         'teaser':first.get('teaser'),
-        'standfirst':best and best['standfirst'],
-        'intro':best and '\n\n'.join(best['intro']) or None,
+        'standfirst':best and best['standfirst'] and not is_rerun_notice(best['standfirst']) and best['standfirst'] or None,
+        'intro':best and '\n\n'.join(t for t in map(strip_rerun,best['intro']) if t) or None,
         **{k:(best[k] if best else []) for k in ('articles','books','songs','links','films','themes','team')},
         'broadcasts':[{'number':w['n'],'date':str(w['date']),'rerun':i} for i,w in enumerate(rows)],
     })
