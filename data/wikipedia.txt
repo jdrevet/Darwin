@@ -1,0 +1,4418 @@
+{{Titre en italique}}
+{{Infobox Émission de radio
+ | nom                = Sur les épaules de Darwin
+ | image              = 
+ | pays               = {{France}}
+ | langue             = [[Français]]
+ | présentateur       = [[Jean Claude Ameisen]]
+ | réalisateur        = Christophe Imbert
+ | création           = [[2010]]
+ | disparition        = [[2022]]
+ | site web           = 
+ | radio              = [[France Inter]]
+ | plage de diffusion = samedi, de 17h à 18h
+ | rediffusion        = lundi, de 4h à 5h
+ | podcast            = [http://radiofrance-podcast.net/podcast09/rss_11549.xml www.franceinter.fr/podcasts]
+}}
+
+'''''Sur les épaules de Darwin''''' est une [[émission de radio]] hebdomadaire de [[Jean Claude Ameisen]], diffusée le samedi de {{date||septembre|2010}} au {{date|25|juin|2022}} sur [[France Inter]]. Les sujets abordés sont assez éclectiques, de l'œuvre de [[Charles Darwin]] à l'évocation des travaux scientifiques les plus récents, mis en résonance avec la [[littérature]], la [[philosophie]], l'[[éthique]], la [[poésie]] ou l'[[art]].
+
+''Sur les épaules de Darwin'' est également le titre de trois livres successifs de Jean Claude Ameisen, avec pour sous-titres ''Les battements du temps'', ''Je t'offrirai des spectacles admirables'' et ''Retrouver l'aube''.
+
+Depuis mi-mars 2020, aucune nouvelle émission n'a été diffusée, uniquement des rediffusions, sans que la raison en soit donnée. L'émission disparait de la grille de France Inter le 25 juin 2022.
+
+== Présentation de l'émission ==
+[[Jean Claude Ameisen]] est l'auteur de cette émission de radio sur [[France Inter]] diffusée le samedi.
+
+Les sujets abordés sont assez éclectiques, de l'œuvre de [[Charles Darwin]] à l'évocation des travaux scientifiques les plus récents, mis en résonance avec la littérature, la philosophie, l'éthique, la poésie, l'art<ref>{{lien web |langue=fr |format=audio |titre=Sur les épaules de Darwin |url=https://www.franceinter.fr/reecouter-diffusions/434611 |éditeur=France Inter}}</ref>. L'émission est réalisée par [[Christophe Imbert]], la programmation des chansons est effectuée par [[Thierry Dupin]] et [[Jean-Baptiste Audibert]].
+
+Le titre de l'émission fait référence à l'image [[des nains sur des épaules de géants]], une métaphore attribuée à [[Bernard de Chartres]] au {{s-|XII|e}}, qui montre l'importance de s'appuyer sur les grandes œuvres du passé. D'ailleurs, l'émission commence à chaque fois par « Sur les épaules de Darwin, sur les épaules des géants »<ref>{{Lien web |langue=fr |titre=Sur les épaules de Darwin par Jean Claude Ameisen - Page 1 - France Inter |url=https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin |site=www.franceinter.fr |consulté le=2019-07-12 }}</ref>.
+
+Le morceau de musique instrumental qui sert de générique à l'émission est ''Neckbrace'' de [[Ratatat]] (Album : ''[[LP4]]'')<ref>{{lien web |titre=France Inter / Radio France |url=http://sites.radiofrance.fr/franceinter/em/sur-les-epaules-de-darwin/ |site=Radio France |consulté le=24-10-2021}}.</ref>.
+
+== Liste des épisodes de l'émission ==
+D'après le site officiel de France Inter<ref>{{lien web |langue=fr |titre=Sur les épaules de Darwin |url=https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin|éditeur=France Inter}}</ref> :
+{{boîte déroulante/début|titre=Liste des émissions|contenu=}}
+{| class="wikitable alternance center" style="text-align:center"
+!width="35px"|N° diffusion
+!width="35px"|N° émission
+!width="25px"|Redif-fusion
+!width="30%" |Titre
+!width="90px"|date de diffusion
+!Teasing
+|-
+|001
+|001
+|
+|align="left"|La théorie de l'évolution de Charles Darwin
+|4 sept 2010
+|align="left"|Première émission à la rencontre de Darwin et de la théorie de l'évolution, théorie qui a transformé notre culture et a influencé largement non seulement la biologie mais aussi l'éthique.
+|-
+|002
+|002
+|
+|align="left"|Le propre de l'homme?
+|11 sept 2010
+|align="left"|Le propre de l'homme existe-t-il ou n'est pas une différence de degrés qui fait la différence. Étude de la conscience de soi chez les grands signes, les grands mammifères terrestres ou marins et chez la pie voleuse. L'apprentissage par l'observation des autres, la notion de culture. Utilisation d'outils.
+|-
+|003
+|003
+|
+|align="left"|Nos mémoires
+|18 sept 2010
+|align="left"|L'évolution c'est l'histoire de la mémoire et de l'oubli. Avec l'émergence de la conscience apparait la mémoire et cela fascinait Darwin. Qu'est-ce que la mémoire ? Déclarative, sémantique, épisodique ? Références à Proust, Freud, Rimbaud, Riilke, La Mémoire dans la peau, Valse avec Bachir
+|-
+|004
+|004
+|
+|align="left"|Nos émotions
+|25 sept 2010
+|align="left"|"Rien ne devient jamais réel tant qu’on ne l’a pas ressenti." '''John Keats'''
+|-
+|005
+|005
+|
+|align="left"|Longévité, jeunesse et vieillissement
+|2 oct 2010
+|
+|-
+|006
+|006
+|
+|align="left"|Mort cellulaire et sculpture du vivant (1)
+|9 oct 2010
+|
+|-
+|007
+|007
+|
+|align="left"|Naissances
+|16 oct 2010
+|
+|-
+|008
+|008
+|
+|align="left"|Biodiversité
+|23 oct 2010
+|align="left"|"L'infinité des formes les plus belles et les plus merveilleuses" '''Charles DARWIN''', ''L'origine des Espèces''
+|-
+|009
+|009
+|
+|align="left"|Mort cellulaire et sculpture du vivant (2)
+|30 oct 2010
+|align="left"|"Le problème le plus passionnant, plus mystérieux encore que celui de l’origine de la vie, est bien celui de l’origine de la mort" '''Edgar Morin''', ''L’Homme et la mort''
+|-
+|010
+|010
+|
+|align="left"|Un voyage avec Oliver Sacks (1)
+|6 nov 2010
+|align="left"|À la rencontre de la singularité de nos mondes intérieurs, à partir de son dernier livre, ''The Mind’s eye'' [''L’œil de l’esprit''].
+|-
+|011
+|011
+|
+|align="left"|Un voyage avec Oliver Sacks (2)
+|13 nov 2010
+|align="left"|En 2010, dans le cadre de la semaine nationale du Handicap, Radio France a proposé tous les jours du 15 au 19 novembre deux animations destinées à offrir un autre regard sur le handicap.
+|-
+|012
+|012
+|
+|align="left"|Vivre ensemble
+|20 nov 2010
+|align="left"|"Toujours dans le cadre de la semaine nationale du handicap… L’autisme est une partie de qui je suis." '''Temple Grandin''', citée par '''Oliver Sacks''' dans le livre ''Un anthropologue sur Mars''
+|-
+|013
+|013
+|
+|align="left"|Pierres de rêve
+|27 nov 2010
+|align="left"|"Seul l'art a le pouvoir de sortir la souffrance de l'abîme." '''Aharon Appelfeld'''. Émission réalisée avec thème musical du film In the mood for love : ''Yumeji'' de '''Shigeru Umebayashi''' (1991). Nous sommes de cette étoffe sur laquelle naissent les rêves. '''William Shakespeare''', ''La Tempête''
+|-
+|014
+|014
+|
+|align="left"|Entendre leurs voix
+|4 déc 2010
+|align="left"|"Que faire de cette parole ?… Aller vers l’autre…" '''Alexandre Jollien'''. <br>"Telle est l’étrangeté du langage : il traverse les frontières du corps…" '''Siri Hustvedt'''
+|-
+|015
+|015
+|
+|align="left"|Éthique, Santé, Droits de l'Homme (1)
+|11 déc 2010
+|align="left"|"On entre en éthique quand, à l’affirmation par soi de sa liberté, on ajoute l’affirmation de la volonté que la liberté de l’autre soit. Je veux que ta liberté soit." '''Paul Ricœur'''.
+|-
+|016
+|016
+|
+|align="left"|Éthique, Santé, Droits de l'Homme (2)
+|18 déc 2010
+|align="left"|"Qu’est-ce qui devrait nous tenir éveillé la nuit ? Les injustices que nous pouvons réparer. Les tragédies que nous pouvons prévenir." '''Amartya Sen''', ''L’Idée de justice''
+|-
+|017
+|004
+|R1
+|align="left"|Nos émotions
+|25 déc 2010
+|
+|-
+|018
+|002
+|R1
+|align="left"|Le propre de l'homme?
+|{{1er}} janvier 2011
+|
+|-
+|019
+|003
+|R1
+|align="left"|Nos mémoires
+|8 janvier 2011
+|
+|-
+|020
+|017
+|
+|align="left"|Lire (1)
+|15 janvier 2011
+|align="left"|"Puisque je pouvais transformer des traits nus en réalité vivante, j’étais tout puissant. Je savais lire." '''Alberto Manguel''', ''Une histoire de la lecture''
+|-
+|021
+|018
+|
+|align="left"|Avancées des sciences du vivant, médecine, et éthique. Les Journées Annuelles d'Éthique
+|22 janvier 2011
+|align="left"|Journées annuelles d’éthique 2011 du Comité Consultatif National d’Éthique : Quel avenir pour l’embryon humain ?
+|-
+|022
+|019
+|
+|align="left"|Voir, rêver, se souvenir, anticiper, choisir : quand l'inconscient émerge à la conscience
+|29 janvier 2011
+|align="left"|"Qui est le rêveur dans le rêve ? Est-ce le « je » qui marche et parle et court dans la nuit ? Est-ce le même 'je' que celui de la lumière du jour ? Est-ce un autre 'je' ?" '''Siri Hustvedt'''
+|-
+|023
+|020
+|
+|align="left"|À la recherche des mystères de l'hérédité (1)
+|5 févr 2011
+|align="left"|"L’intérieur et l’extérieur s’interpénètrent, et un organisme vivant est à la fois le produit et le lieu de cette interaction." '''Richard Lewontin''', ''La triple hélice''
+|-
+|024
+|021
+|
+|align="left"|Inventer des couleurs, frissonner en écoutant de la musique : le désir, le plaisir et la joie de ressentir (1)
+|12 févr 2011
+|align="left"|"Rien ne devient jamais réel tant qu’on ne l’a pas ressenti." John Keats
+|-
+|025
+|022
+|
+|align="left"|La musique, le toucher, la douleur, la peur, l'espoir, la confiance : Ressentir (2)
+|19 févr 2011
+|align="left"|"Le monde subjectif est aussi un monde intersubjectif, le monde du «Moi» et du «Toi», et tracer une frontière entre les deux n’est pas facile parce que les autres font partie de nous". '''Siri Hustvedt'''
+|-
+|026
+|023
+|
+|align="left"|La course de la Reine rouge
+|26 févr 2011
+|align="left"|"Ce qu’il y avait de plus curieux dans l’aventure, dit Alice, c’est que les arbres et les autres objets qui nous entouraient ne changeaient pas du tout de place…". avec Christophe Rameix
+|-
+|027
+|013
+|R1
+|align="left"|Pierres de rêve
+|5 mars 2011
+|
+|-
+|028
+|024
+|
+|align="left"|La course de la Reine rouge (2) - Où l'on croit voir la Reine blanche
+|12 mars 2011
+|align="left"|Notre imagination déploie sans cesse devant nous l’image toujours renouvelée de ce qui va pouvoir arriver, de ce qui est possible. '''François Jacob''', ''Le Jeu des Possibles''
+|-
+|029
+|025
+|
+|align="left"|La course de la Reine rouge (3)
+|19 mars 2011
+|align="left"|"Être vivant, c’est être fait de mémoire." '''Philippe Roth''', ''Patrimoine''
+|-
+|030
+|026
+|
+|align="left"|Ressentir (3)
+|26 mars 2011
+|align="left"|"Les métaphores qui, dans de nombreuses langues, expriment la souffrance, l’abandon et le deuil avec les mots de la douleur corporelle ne relèvent pas de la seule licence poétique…" '''Nicolas Danziger'''
+|-
+|031
+|012
+|R1
+|align="left"|Vivre ensemble
+|2 avril 2011
+|
+|-
+|032
+|027
+|
+|align="left"|Ressentir (4) - Soi-même en train de vivre
+|9 avril 2011
+|align="left"|En allemand on dit Erlebnis. En espagnol : vivencia. Mais il n’y a pas de mot en français pour saisir d’un seul trait la vie comme expérience d’elle-même… '''Oliver Sacks'''
+|-
+|033
+|028
+|
+|align="left"|Ressentir (5) - Apprendre
+|16 avril 2011
+|align="left"|"Ivresse de renommer les choses comme au premier matin du monde." '''François Cheng''', ''Cinq méditations sur la beauté''
+|-
+|034
+|029
+|
+|align="left"|Ressentir (6) - Nous-même derrière nous-même, caché
+|23 avril 2011
+|align="left"|"Nous-même derrière nous-même, caché – Devrait le plus nous surprendre" '''Emily Dickinson'''
+|-
+|035
+|030
+|
+|align="left"|À la recherche des mystères de l'hérédité (2)
+|30 avril 2011
+|align="left"|"Ce qui précède le début, tel est le jadis. J'appelle ce qui sourd aléatoirement à l'origine ‘jadis’. À partir du jadis c'est l'origine qui fait avalanche. Le ‘vrai jadis’ est l'inconnu à sa source…"
+|-
+|036
+|031
+|
+|align="left"|À la recherche des mystères de l'hérédité (3) - Les symbioses
+|7 mai 2011
+|align="left"|"-Ainsi en est-il de nous : Ni vous sans moi, ni moi sans vous." '''Marie de France''', ''Le lai du chèvrefeuille''
+|-
+|037
+|032
+|
+|align="left"|À la recherche des mystères de l'hérédité (4) - Quand l'art rencontre la science
+|14 mai 2011
+|align="left"|"Je le trouvai et le nommai, étant versé dans le latin des classifications ; Ainsi je devins le parrain d’un papillon, et le premier à le décrire. Et je ne veux pas d’autre gloire…" '''Nabokov'''
+|-
+|038
+|033
+|
+|align="left"|À la recherche des mystères de l'hérédité (5) - De mimétismes en symbioses
+|21 mai 2011
+|align="left"|La vie n’a pas conquis la Terre par des combats, mais en tissant des réseaux…
+|-
+|039
+|034
+|
+|align="left"|Les gardiennes des arbres
+|28 mai 2011
+|align="left"|"Un jour, devenu adulte, alors que j’étais à Panama, j’ai fait un pas de côté, et contemplé, s’écoulant à mes pieds comme une rivière crépitante…" '''Richard Dawkins''', ''L’Horloger aveugle'' Aujourd'hui, l’histoire écologique des fourmis à travers les temps géologiques…
+|-
+|040
+|035
+|
+|align="left"|L'invention de l'agriculture
+|4 juin 2011
+|align="left"|Les grelots des troupeaux palpitaient vaguement; Une immense bonté tombait du firmament; C'était l'heure tranquille où les lions vont boire. '''Victor Hugo''', ''La Légende des Siècles'' 
+|-
+|041
+|036
+|
+|align="left"|À travers les labyrinthes
+|11 juin 2011
+|align="left"|"Il n’y aura pas de porte. Tu y es Et le château embrasse l’univers Il ne contient ni avers ni revers ni mur extérieur ni centre secret." '''Jorge Luis Borges''', ''Labyrinthe''
+|-
+|042
+|037
+|
+|align="left"|Transmettre en dansant, enseigner en courant, décider en votant
+|18 juin 2011
+|align="left"|En 1944, Karl von Frisch avait découvert que les abeilles qui avaient suivi la danse cherchaient la fleur près du lieu où la danseuse l’avait découverte, même si ce lieu était très distant du nid…
+|-
+|043
+|038
+|
+|align="left"|"Entendre leurs voix" avec Florence Aubenas
+|25 juin 2011
+|align="left"|La loi prévoit que la détention est une sanction définie par la seule privation de la liberté d’aller et venir. Qu'en est-il de la notion de liberté en prison ? (avec '''Florence Aubenas''') 
+|-
+|044
+|017
+|R1
+|align="left"|Lire (1)
+|2 juillet 2011
+|
+|-
+|045
+|019
+|R1
+|align="left"|Voir, rêver, se souvenir, anticiper, choisir : quand l'inconscient émerge à la conscience
+|9 juillet 2011
+|
+|-
+|046
+|020
+|R1
+|align="left"|À la recherche des mystères de l'hérédité (1)
+|16 juillet 2011
+|
+|-
+|047
+|021
+|R1
+|align="left"|Inventer des couleurs, frissonner en écoutant de la musique : le désir, le plaisir et la joie de ressentir (1)
+|23 juillet 2011
+|
+|-
+|048
+|010
+|R1
+|align="left"|Un voyage avec Oliver Sacks (1)
+|30 juillet 2011
+|
+|-
+|049
+|011
+|R1
+|align="left"|Un voyage avec Oliver Sacks (2)
+|6 août 2011
+|
+|-
+|050
+|024
+|R1
+|align="left"|La course de la Reine rouge (2) - Où l'on croit voir la Reine blanche
+|13 août 2011
+|
+|-
+|051
+|022
+|R1
+|align="left"|La musique, le toucher, la douleur, la peur, l'espoir, la confiance : Ressentir (2)
+|20 août 2011
+|
+|-
+|052
+|028
+|R1
+|align="left"|Ressentir (5) - Apprendre
+|27 août 2011
+|
+|-
+|053
+|039
+|
+|align="left"|Renaissance
+|3 sept 2011
+|align="left"|"C’est le mot si étrange de l’Empereur Claude : 'les choses les plus anciennes ont été extrêmement neuves'." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|054
+|040
+|
+|align="left"|Les battements du temps (1)
+|10 sept 2011
+|
+|-
+|055
+|041
+|
+|align="left"|Les battements du temps (2)
+|17 sept 2011
+|align="left"|"Qu’est-ce que le temps ? Si personne ne me le demande, je le sais. Mais si on me le demande et que je veuille l’expliquer, je ne le sais plus." '''Saint Augustin''', ''Les Confessions''
+|-
+|056
+|042
+|
+|align="left"|Les battements du temps (3)
+|24 sept 2011
+|align="left"|"Une chance qui s’est déjà produite s’approche de nouveau de nous en silence. Il faut en accueillir le halo d’ardeur tremblant et invisible." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|057
+|043
+|
+|align="left"|Les battements du temps (4)
+|{{1er}} oct 2011
+|align="left"|"Et pendant que cette planète continuait à tourner selon la loi fixe de la gravitation, à partir d’un début si simple, une infinité de formes les plus belles et les plus merveilleuses ont évolué, et continuent d’évoluer." '''Charles Darwin''', ''De l’origine des espèces''
+|-
+|058
+|044
+|
+|align="left"|Les battements du temps (5) - Les vagabonds du ciel
+|8 oct 2011
+|align="left"|"Quand le passé revient de façon imprévisible, ce n’est pas le passé qui revient : c’est l’imprévisible.  […] Quand un bout de passé revient de façon imprévisible, l’homme ou la femme sont bouleversés." '''Pascal Quignard''', ''Rhétorique spéculative''
+|-
+|059
+|045
+|
+|align="left"|Les battements du temps (6) - Les arpenteurs du ciel
+|15 oct 2011
+|align="left"|"Les voies par lesquelles les hommes parviennent à comprendre les choses célestes me semblent aussi admirables que les choses célestes elles-mêmes." '''Johannes Kepler''', ''Astronomie Nouvelle 1609''
+|-
+|060
+|046
+|
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|22 oct 2011
+|align="left"|"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|061
+|047
+|
+|align="left"|Les battements du temps (8) - Entre déjà plus et encore à venir…
+|29 oct 2011
+|align="left"|"Et que prouve donc ton cœur ? – Entre hier et demain il oscille – sans bruit, étranger – et sonne en battant, – sa chute hors du temps." '''Ingeborg Bachmann''', ''Tombe, cœur''
+|-
+|062
+|048
+|
+|align="left"|Les battements du temps (9)
+|5 nov 2011
+|align="left"|"Ce ne sont que des indices et des suppositions, des indices suivis de suppositions ; et le reste est […] pensée et action. L’indice à moitié deviné, le don à moitié compris […]" '''TS Eliot''', ''Four Quartets''
+|-
+|063
+|049
+|
+|align="left"|Les battements du temps (10)
+|12 nov 2011
+|align="left"|"Quelque chose parla en entrant dans le silence, quelque chose se tut, quelque chose alla son chemin". '''Paul Celan''', ''Köln, Am Hof''
+|-
+|064
+|050
+|
+|align="left"|Les battements du temps (11)
+|19 nov 2011
+|align="left"|"En ce qui concerne le sommeil et la veille nous devons nous demander à quoi ils correspondent : est-ce qu’ils correspondent à l’âme ou au corps ? Ou est-ce qu’ils sont communs aux deux ? Et s’ils sont communs aux deux, il nous faut déterminer à quelle portion de l’âme ou du corps ils correspondent. " '''Aristote''', ''Traité de l’âme''
+|-
+|065
+|051
+|
+|align="left"|Les battements du temps (12) - "Ce n'était pas en moi, c'était moi…"
+|26 nov 2011
+|align="left"|"Il faut avoir vu beaucoup de villes, beaucoup d’hommes et de choses, il faut connaître les bêtes, il faut sentir comment volent les oiseaux et savoir le mouvement qui fait s’ouvrir les petites fleurs au matin. […] Car les souvenirs ne sont pas encore ce qu’il faut. Il faut d’abord qu’ils se confondent avec notre sang, avec notre regard, avec notre geste…" '''Rainer Maria Rilke''', ''Les carnets de Malte Laurids Brigge''
+|-
+|066
+|052
+|
+|align="left"|Les battements du temps (13) - Les cartes de la mémoire
+|3 déc 2011
+|align="left"|"Un homme décide de dessiner le monde. À mesure que les années passent, il remplit un espace avec des images de provinces, de royaumes, de montagnes, de baies, de navires, d’îles, de poissons, de salles, d’instruments, d’étoiles, de chevaux et de personnes. Peu de temps avant sa mort, il découvre que ce patient labyrinthe de lignes dessine les traits essentiels de son propre visage." '''Jorge Luis Borges''' ''L’auteur. Post-face''
+|-
+|067
+|053
+|
+|align="left"|Les battements du temps (14) - Comme de longs échos…
+|10 déc 2011
+|align="left"|"Comme de longs échos qui de loin se confondent […] – Les parfums, les couleurs et les sons se répondent – Il est des parfums […] – Doux comme les hautbois, verts comme les prairies, […] – Qui chantent les transports de l’esprit et des sens" '''Charles Baudelaire''', ''Correspondances''
+|-
+|068
+|054
+|
+|align="left"|Les battements du temps (15) - Un orchestre caché…
+|17 déc 2011
+|align="left"|"Mon âme est comme un orchestre caché ; je ne sais pas quels instruments résonnent et jouent en moi, cordes et harpes, timbales et tambours. Je ne peux me connaître que comme une symphonie." '''Fernando Pessoa''', ''Le livre de l’intranquillité''
+|-
+|069
+|046
+|R1
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|24 déc 2011
+|align="left"|"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|070
+|039
+|R1
+|align="left"|Renaissance
+|31 déc 2011
+|align="left"|"C’est le mot si étrange de l’Empereur Claude : 'les choses les plus anciennes ont été extrêmement neuves'." '''Pascal Quignard''', ''Les ombres errantes''.
+|-
+|071
+|055
+|
+|align="left"|Les battements du temps (16) - Un cadeau de Nouvel An
+|7 janvier 2012
+|align="left"|"À partir de ce presque Rien, un minuscule atome de neige, j’ai été proche de recréer l’Univers entier, qui contient tout !" '''Johannes Kepler''', ''Etrennes ou la neige hexagonale''
+|-
+|072
+|056
+|
+|align="left"|Les battements du temps (17) - Le vivant et les nombres
+|14 janvier 2012
+|align="left"|"Le pouvoir formateur de la Terre ne se limite pas à une seule forme, mais embrasse et connaît la totalité de la géométrie…" '''Johannes Kepler''', ''Etrennes ou La Neige hexagonale''
+|-
+|073
+|057
+|
+|align="left"|Les battements du temps (18) - More is different
+|21 janvier 2012
+|align="left"|"À chaque niveau de complexité, des propriétés entièrement nouvelles apparaissent – et la compréhension du nouveau comportement nécessite de nouvelles recherches fondamentales. A différents niveaux de complexité, une transition a lieu – une augmentation de la quantité se traduit soudain par un changement au niveau qualitatif." '''Philip Anderson''', ''More is différent''
+|-
+|074
+|058
+|
+|align="left"|Les battements du temps (19)
+|28 janvier 2012
+|align="left"|"L’intérieur et l’extérieur s’interpénètrent, et un organisme vivant est à la fois le produit et le lieu de cette interaction." '''Richard Lewontin''', ''La triple hélice''
+|-
+|075
+|059
+|
+|align="left"|Les battements du temps (20)
+|4 févr 2012
+|align="left"|"Mon beau navire ô ma mémoire – Avons-nous assez navigué […] – Avons-nous assez divagué – De la belle aube au triste soir." '''Apollinaire''', ''La chanson du mal-aimé''
+|-
+|076
+|060
+|
+|align="left"|Les battements du temps (21)
+|11 févr 2012
+|align="left"|Tout ce qui est dit ici arriva quelque temps avant que Mowgli quitte la horde de Loups Seeonee, et se venge lui-même de Shere Khan, le tigre… '''Rudyard Kipling''', La chasse de Kaa, dans ''Le livre de la jungle''.
+|-
+|077
+|061
+|
+|align="left"|les battements du temps (22)
+|18 févr 2012
+|align="left"|"Il y a ici un paradoxe – un délicieux paradoxe – que je ne peux résoudre : s’il y a en effet une différence fondamentale entre l’expérience vécue et la description, entre une connaissance directe du monde et une connaissance par l’intermédiaire des autres, comment se fait-il que le langage soit si puissant ?" '''Oliver Sacks''', ''L’œil de l’esprit''
+|-
+|078
+|062
+|
+|align="left"|Les battements du temps (23) - L'œil de l'esprit 
+|25 févr 2012
+|align="left"|"La façon de résoudre le problème que tu rencontres dans la vie est de vivre d’une façon qui fait disparaître le problème." '''Ludwig Wittgenstein''', ''Culture and value''
+|-
+|079
+|063
+|
+|align="left"|Les battements du temps (24) - Éclats de mondes disparus (1)
+|3 mars 2012
+|align="left"|"Les traces, par définition, ne sont donc jamais visibles en tant que traces. Elles ne sont visibles que si elles sont cherchées comme des marques de ce qui n’est plus là. […] Seule leur attente les découvre. […] Le visible ne suffit pas pour comprendre ce qui est vu. Le visible ne s’interprète qu’en référence à l’invisible." '''Pascal Quignard''', ''Sur le Jadis''
+|-
+|080
+|064
+|
+|align="left"|Les battements du temps (25) - Éclats de mondes disparus (2)
+|10 mars 2012
+|align="left"|"Il n’y a pas de passé qui resurgisse qu’il ne procure une sensation de naissance. […] La joie tragique d’avoir retrouvé le perdu." '''Pascal Quignard''', ''Sur le jadis''
+|-
+|081
+|065
+|
+|align="left"|Les battements du temps (26) - Le langage des oiseaux (1)
+|17 mars 2012
+|align="left"|"La beauté n’est pas une qualité inhérente aux choses elles-mêmes, elle existe seulement dans l’esprit qui la contemple." '''David Hume''', ''Essais et traités sur plusieurs sujets'', ''Essais moraux, politiques et littéraires''
+|-
+|082
+|041
+|R1
+|align="left"|Les battements du temps (2)
+|24 mars 2012
+|
+|-
+|083
+|066
+|
+|align="left"|Les battements du temps (27) - Le langage des oiseaux (2)
+|31 mars 2012
+|align="left"|"'Toi', 'moi', ces mots semblaient si simples ! Que voulaient-ils dire vraiment ?" '''Farid-ud-Din ‘Attâr''', ''La conférence des oiseaux''
+|-
+|084
+|017
+|R2
+|align="left"|Lire (1)
+|7 avril 2012
+|
+|-
+|085
+|067
+|
+|align="left"|Les battements du temps (28) - Le langage des oiseaux (3)
+|14 avril 2012
+|align="left"|"L’univers (que d’autres appellent la Bibliothèque) […]" '''Jorge Luis Borges''', ''La Bibliothèque de Babel''
+|-
+|086
+|068
+|
+|align="left"|Les battements du temps (29) - La démocratie des abeilles
+|21 avril 2012
+|align="left"|"Pour faire une prairie il faut un trèfle et une abeille, – Un trèfle et une abeille, – Et de la rêverie. – La rêverie seule suffira, – Si les abeilles sont rares." '''Emily Dickinson''', ''Poésies complètes''
+|-
+|087
+|069
+|
+|align="left"|Les battements du temps (30) - À la découverte du monde des abeilles (2)
+|28 avril 2012
+|align="left"|"Tout cela paraît très clair – et demeure cependant suffisamment mystérieux pour que nous ne cessions de nous émerveiller.[…] Un des motifs qui me poussèrent à écrire ce petit livre fut le désir de partager la joie que j’avais vécue." '''Karl von Frisch''', ''Vie et mœurs des abeilles''
+|-
+|088
+|070
+|
+|align="left"|Les battements du temps (31) - À la découverte du monde des abeilles (3)
+|5 mai 2012
+|align="left"|"La vision des couleurs est un sujet qui a, durant des siècles, provoqué un intérêt passionné de la part des plus grands artistes, philosophes, et scientifiques. […] Et pourtant, la plupart d’entre nous, la plupart du temps, nous négligeons ce grand mystère." '''Oliver Sacks''', ''Un anthropologue sur Mars''
+|-
+|089
+|071
+|
+|align="left"|Les battements du temps (32) - À la découverte du monde des abeilles (4)
+|12 mai 2012
+|align="left"|"Observer les autres est l’une des activités favorites des jeunes primates. […] Imaginez que le proverbe ‘il faut tout un village pour élever un enfant’ s’applique aussi aux babouins, aux éléphants, ou aux dauphins : il en découlera une vision…" '''Frans de Waal''', ''Quand les singes prennent le thé''
+|-
+|090
+|072
+|
+|align="left"|Les battements du temps (33) - L'intelligence des oiseaux
+|19 mai 2012
+|align="left"|"La Corneille ayant soif, trouva par hasard une cruche où il y avait un peu d’eau ; mais comme la cruche était trop profonde, elle n’y pouvait atteindre pour se désaltérer. Elle essaya d’abord de rompre la cruche avec son bec…" '''Ésope''', ''La Corneille et la cruche''
+|-
+|091
+|044
+|R1
+|align="left"|Les battements du temps (5) - Les vagabonds du ciel
+|26 mai 2012
+|
+|-
+|092
+|073
+|
+|align="left"|Les battements du temps (35) - Les chants de la nature (1)
+|2 juin 2012
+|align="left"|"Ou la chute d’eau, ou la musique entendue si profondément  qu’elle n’est pas entendue du tout, mais tu es la musique  tant que dure la musique." '''TS Eliot''', ''Four Quartets''
+|-
+|093
+|074
+|
+|align="left"|Les battements du temps (36) - Les chants de la nature (2)
+|9 juin 2012
+|align="left"|"Je recherche le tarabustant sonore datant d’avant le langage." '''Pascal Quignard''', ''La haine de la musique''
+|-
+|094
+|075
+|
+|align="left"|Les battements du temps (37) - les bruits du monde
+|16 juin 2012
+|
+|-
+|095
+|076
+|
+|align="left"|Les battements du temps (38) - Plus vaste que le ciel…
+|23 juin 2012
+|align="left"|"Le Cerveau – est plus vaste que le Ciel – Car – mets-les côte à côte – L’un contiendra l’autre Aisément – et Toi – en plus – […]" '''Emily Dickinson''', ''The Brain – is wider than the Sky…''
+|-
+|096
+|046
+|R2
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|30 juin 2012
+|
+|-
+|097
+|063
+|R1
+|align="left"|Les battements du temps (24) - Éclats de mondes disparus (1)
+|7 juillet 2012 
+|align="left"|" Les traces ne sont jamais visibles en tant que traces. Elles ne sont visibles que si elles sont cherchées comme les marques de qui n'est plus là. Le visible ne suffit pas pour comprendre ce qui est vu. Le visible ne s'interprête qu'en référence à l'invisible ." Pascal Guignard  Sur le Jadis.
+|-
+|098
+|064
+|R1
+|align="left"|Les battements du temps (25) - Éclats de mondes disparus (2)
+|14 juillet 2012
+|
+|-
+|099
+|055
+|R1
+|align="left"|Les battements du temps (16) - Un cadeau de Nouvel An
+|21 juillet 2012
+|
+|-
+|100
+|052
+|R1
+|align="left"|Les battements du temps (13) - Les cartes de la mémoire
+|28 juillet 2012
+|
+|-
+|101
+|053
+|R1
+|align="left"|Les battements du temps (14) - Comme de longs échos…
+|4 août 2012
+|
+|-
+|102
+|065
+|R1
+|align="left"|Les battements du temps (26) - Le langage des oiseaux (1)
+|11 août 2012
+|
+|-
+|103
+|066
+|R1
+|align="left"|Les battements du temps (27) - Le langage des oiseaux (2)
+|18 août 2012
+|
+|-
+|104
+|073
+|R1
+|align="left"|Les battements du temps (35) - Les chants de la nature (1)
+|25 août 2012
+|
+|-
+|105
+|074
+|R1
+|align="left"|Les battements du temps (36) - Les chants de la nature (2)
+|{{1er}} sept 2012
+|
+|-
+|106
+|077
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (1)
+|8 sept 2012
+|align="left"|"Nous sommes de cette étoffe sur laquelle naissent les rêves et notre petite vie est entourée de sommeil." '''Shakespeare''', ''La tempête''
+|-
+|107
+|078
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (2)
+|15 sept 2012
+|align="left"|"J’étais déjà bien engagé, sur le chemin du sommeil, et je pouvais dire quelle forme mon rêve allait prendre." '''Robert Frost''', ''After apple-picking''
+|-
+|108
+|075
+|R1
+|align="left"|Les battements du temps (37) - Les bruits du monde
+|22 sept 2012
+|
+|-
+|109
+|079
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (3)
+|29 sept 2012
+|align="left"|"Quand le passé revient de façon imprévisible,  ce n’est pas le passé qui revient : c’est l’imprévisible. […] Quand un bout de passé revient de façon imprévisible, l’homme ou la femme sont bouleversés." '''Pascal Quignard''', ''Rhétorique spéculative''
+|-
+|110
+|080
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (4)
+|6 oct 2012
+|align="left"|"J’ouvre les yeux au monde réel, la clarté de ma veilleuse est la seule qui m’éclaire. Il est trois heures du matin." '''Hervey de Saint-Denys''', ''Les rêves et les moyens de les diriger''
+|-
+|111
+|081
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (5)
+|13 oct 2012
+|align="left"|"Sans la conscience, il n’y a rien. La seule façon que nous avons de ressentir notre corps, et la présence des montagnes, et la présence des êtres humains, des arbres et des chiens, des étoiles et de la musique, c’est par l’intermédiaire de nos expériences subjectives." '''Christof Koch''', ''La conscience - Confessions d’un réductionniste romantique''
+|-
+|112
+|082
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (6)
+|20 oct 2012
+|align="left"|"Nous ne connaissons jamais ce qui commence à son début. […] Nous avons connu la vie avant que le soleil éblouisse nos yeux et nous y avons entendu quelque chose qui ne se pouvait voir ni lire". '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|113
+|083
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (7)
+|27 oct 2012
+|align="left"|"Je souhaite [dit Alice] que vous ne continuiez pas à apparaître et à disparaître si soudainement: vous donnez le vertige !" '''Lewis Carroll''', ''Alice au pays des merveilles''
+|-
+|114
+|084
+|
+|align="left"|Le lien qui nous rattache aux autres (1)
+|3 nov 2012
+|align="left"|"Le monde subjectif est aussi un monde inter-subjectif, le monde de 'je' et de 'tu', et tracer une frontière entre les deux n’est pas facile, parce que les autres font partie de nous." '''Siri Hustvedt''', ''La femme qui tremble''
+|-
+|115
+|085
+|
+|align="left"|Le lien qui nous rattache aux autres (2)
+|10 nov 2012
+|align="left"|"Je suis devenu aveugle par accident, alors que je n’avais pas tout à fait huit ans. Complètement aveugle, et définitivement. Au moins selon les définitions et le vocabulaire de ceux qui ne sont pas aveugles. Car pour moi, il en allait, tout autrement." '''Jacques Lusseyran''', ''Le monde commence aujourd’hui''
+|-
+|116
+|054
+|R1
+|align="left"|Les battements du temps (15) - Un orchestre caché…
+|17 nov 2012
+|
+|-
+|117
+|086
+|
+|align="left"|Le lien qui nous rattache aux autres (3)
+|24 nov 2012
+|align="left"|"On sait que j’avais de bons parents. C’est-à-dire non seulement des parents qui me voulaient du bien, mais des parents pour qui ce n’était pas nécessairement une malédiction [que je sois] différent des autres […]", '''Jacques Lusseyran''', ''Et la lumière fut''
+|-
+|118
+|087
+|
+|align="left"|Le lien qui nous rattache aux autres (4)
+|{{1er}} nov 2012
+|align="left"|"Au commencement est la relation. […] Toute vie véritable est rencontre." '''Martin Buber''', ''Je et Tu''
+|-
+|119
+|088
+|
+|align="left"|Le lien qui nous rattache aux autres (5)
+|8 nov 2012
+|align="left"|"Une vérité étonnante faite de brume et de brouillard et du fantôme non reconnaissable de la mémoire et du rêve […], et je ne peux pas dire si c’est quelque chose ou rien." '''Siri Hustvedt''', ''La femme qui tremble''
+|-
+|120
+|089
+|
+|align="left"|Le lien qui nous rattache aux autres (6)
+|15 déc 2012
+|align="left"|"Nous ne traversons ce monde qu’une fois. Peu de tragédies sont plus graves que de ne pas permettre à la vie de s’épanouir, peu d’injustices sont plus profondes que de réduire à néant les occasions de se développer, ou même d’espérer, à cause de limites imposées de l’extérieur par d’autres, mais dont on pense qu’elles viennent de soi." '''Stephen Jay Gould''', ''La mal-mesure de l’homme''
+|-
+|121
+|046
+|R3
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|22 déc 2012
+|
+|-
+|122
+|055
+|R2
+|align="left"|Les battements du temps (16) - Un cadeau de Nouvel An
+|29 déc 2012
+|
+|-
+|123
+|068
+|R1
+|align="left"|Les battements du temps (29) - La démocratie des abeilles
+|5 janvier 2013
+|
+|-
+|124
+|069
+|R1
+|align="left"|Les battements du temps (30) - À la découverte du monde des abeilles (2)
+|12 janvier 2013
+|
+|-
+|125
+|090
+|
+|align="left"|Le lien qui nous rattache aux autres (7) - Le retour d'Ulysse
+|19 janvier 2013
+|align="left"|"Homère et Pindare appelaient symbola les fragments de tessère brisée lorsque les héros se quittaient. À leur retour, les années ayant passé, les héros réajustaient les bords. À l’instant où s’emboîtait exactement leur morceau de puzzle dans l’autre morceau de puzzle, les yeux reconnaissaient les visages." '''Pascal Quignard''', ''La barque silencieuse''
+|-
+|126
+|091
+|
+|align="left"|Le lien qui nous rattache aux autres (8)
+|26 janvier 2013
+|align="left"|"Il n’a aucune idée de la raison pour laquelle il se sent obligé de prendre ces photos. […] et pourtant, chaque fois qu’il pénètre dans une maison, il sent que les objets l’appellent, lui parlent avec la voix des gens qui ne sont plus là…" '''Paul Auster''', ''Sunset Park''
+|-
+|127
+|069
+|R2
+|align="left"|Les battements du temps (30) - À la découverte du monde des abeilles (2)
+|2 févr 2013
+|
+|-
+|128
+|092
+|
+|align="left"|Le lien qui nous rattache aux autres (9)
+|9 févr 2013
+|align="left"|"Mon âme est un orchestre caché; je ne sais pas quels instruments vibrent et jouent en moi, cordes et harpes, timbales et tambours. Je ne peux me connaître qu’en tant que symphonie." '''Fernando Pessoa''', ''Le  livre de l’Intranquillité''
+|-
+|129
+|093
+|
+|align="left"|Le lien qui nous rattache aux autres (10)
+|16 févr 2013
+|align="left"|"Aussi égoïste que l’on considère l’homme, il y a à l’évidence des principes dans sa nature qui le conduisent à s’intéresser au devenir des autres, et qui lui rendent nécessaire leur bonheur, bien qu’il n’en dérive rien, excepté le plaisir de voir [le bonheur des autres]." '''Adam Smith''', ''Théorie des sentiments moraux''
+|-
+|130
+|094
+|
+|align="left"|L'illusion de la fin de l'histoire
+|23 févr 2013
+|align="left"|"Notre imagination déploie sans cesse devant nous l’image toujours renouvelée de ce qui va pouvoir arriver, de ce qui est possible. Nous ne pouvons penser à nous sans un instant suivant, mais nous ne pouvons savoir ce que sera cet instant. Ainsi, nous ne pouvons connaître ce qui nous intéresse le plus au monde, ce qui se passera demain." '''François Jacob''', ''Le jeu des possibles''
+|-
+|131
+|095
+|
+|align="left"|Habiter notre corps
+|2 mars 2013
+|align="left"|"L’incarnation, le fait que nous habitions notre corps, nous semble être la chose la plus certaine qui soit dans ce monde, nous semble être le seul fait irréfutable." '''Oliver Sacks''', ''Hallucinations''
+|-
+|132
+|070
+|R1
+|align="left"|Les battements du temps (31) - À la découverte du monde des abeilles (3)
+|9 mars 2013
+|
+|-
+|133
+|071
+|R1
+|align="left"|Les battements du temps (32) - À la découverte du monde des abeilles (4)
+|16 mars 2013
+|
+|-
+|134
+|096
+|
+|align="left"|Aux origines du langage (1)
+|23 mars 2013
+|align="left"|"L’homme n’est pas le seul animal capable d’utiliser un langage pour exprimer ce qui est en train de se produire dans son esprit et capable de comprendre plus ou moins ce qui est exprimé de cette manière par un autre." '''Charles Darwin'''
+|-
+|135
+|097
+|
+|align="left"|Aux origines du langage (2)
+|30 mars 2013
+|align="left"|Lire, déchiffrer, réinventer sans cesse le monde qui nous entoure. Découvrir les autres, communiquer, entrer en résonance, tisser un lien, échanger, partager, écouter, répondre, parler.
+|-
+|136
+|098
+|
+|align="left"|Aux origines du langage (3)
+|6 avril 2013
+|align="left"|"Elle me rappela Amy, une patiente qui était devenue sourde à l’âge de neuf ans et qui lisait si bien sur les lèvres que j’oubliais souvent qu’elle était sourde."
+|-
+|137
+|099
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (8)
+|13 avril 2013
+|align="left"|"Les images oniriques ont quelque chose des galets qui sont dans l’eau. Qui brillent sous l’onde glacée qui file entre les menthes. Leur beauté fait qu’on se penche… Jean Claude Ameisen vous propose une plongée au plus profond de vous-mêmes, pendant votre sommeil, durant cette lente dérive quand la conscience semble vous quitter et resurgir par intermittence, sous la forme énigmatique des hallucinations de vos rêves…"
+|-
+|138
+|100
+|
+|align="left"|La forme des mots
+|20 avril 2013
+|align="left"|Toutes les lettres ont d’abord été des signes et tous les signes ont d’abord été des images disait '''Victor Hugo''', Jean Claude Ameisen propose un voyage à la découverte de la parole, avec des escales avec des chercheurs, écrivains, scientifiques et poètes…
+|-
+|139
+|035
+|R1
+|align="left"|L'invention de l'agriculture
+|27 avril 2013
+|align="left"|Si un congrès de naturalistes devait se réunir pour choisir les sept merveilles du monde animal, ils se sentiraient obligés d’inclure la civilisation étrange et impressionnante des Attini coupeuses de feuille
+|-
+|140
+|101
+|
+|align="left"|Clarté
+|4 mai 2013
+|align="left"|Dans "''Sur le jadis''", '''Pascal Quignard''' dit :" Le visible ne suffit pas pour comprendre ce qui est vu […]. Le visible ne s’interprète qu’en référant à l’invisible." Retour avec Jean-Claude Ameisen ce matin sur la façon dont nous percevons la réalité
+|-
+|141
+|102
+|
+|align="left"|Présence
+|11 mai 2013
+|align="left"|Chaque année, un jour de printemps, en pénétrant dans le jardin, je ressens le même choc, la même stupéfaction. Chaque année, c’est le même émerveillement devant les bourgeons qui éclatent et commencent à éclore ; devant les débuts de feuilles…
+|-
+|142
+|103
+|
+|align="left"|La mémoire et l'oubli
+|18 mai 2013
+|align="left"|Qui veut se souvenir doit se confier à l’oubli, à ce risque qu’est l’oubli absolu, et à ce beau hasard que devient alors le souvenir. '''Maurice Blanchot'''
+|-
+|143
+|104
+|
+|align="left"|L'empreinte du danger
+|25 mai 2013
+|align="left"|Il y a toujours ce qui deviendra la vie que nous menons, et la vie qui l’accompagne, la vie parallèle, qui n’est en fait jamais advenue, que nous vivons dans notre esprit.
+|-
+|144
+|105
+|
+|align="left"|Le passant du temps
+|{{1er}} juin 2013
+|align="left"|Au mot présent, il faut préférer le mot plus sûr de passant. Le présent est le passant du temps. [Et] il est possible que dans le passant du temps, le passé soit l’énergie… '''Pascal Quignard'''
+|-
+|145
+|106
+|
+|align="left"|Traces
+|8 juin 2013
+|
+|-
+|146
+|107
+|
+|align="left"|Ce qui fut se refait
+|15 juin 2013
+|
+|-
+|147
+|108
+|
+|align="left"|Je suis le fleuve
+|22 juin 2013
+|align="left"|Le temps s’en va, le temps s’en va, ma Dame, Las ! le temps non, mais nous, nous en allons […] Ronsard. Sonnet à Marie. Le temps est la substance dont je suis fait. Le temps est un fleuve qui m’emporte, mais je suis le fleuve ;  c’est un tigre qui me dévore, mais je suis le tigre ;  c’est un feu qui me consume, mais je suis le feu. '''Borges''', ''Nouvelle réfutation du temps''
+|-
+|148
+|077
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (1)
+|29 juin 2013
+|
+|-
+|149
+|078
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (2)
+|6 juillet 2013
+|
+|-
+|150
+|079
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (3)
+|13 juillet 2013
+|
+|-
+|151
+|080
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (4)
+|20 juillet 2013
+|
+|-
+|152
+|081
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (5)
+|27 juillet 2013
+|
+|-
+|153
+|082
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (6)
+|3 août 2013
+|
+|-
+|154
+|083
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (7)
+|10 août 2013
+|
+|-
+|155
+|099
+|R1
+|align="left"|Cette étoffe sur laquelle naissent les rêves (8)
+|17 août 2013
+|
+|-
+|156
+|102
+|R1
+|align="left"|Présence
+|24 août 2013
+|
+|-
+|157
+|036
+|R1
+|align="left"|À travers les labyrinthes
+|31 août 2013
+|
+|-
+|158
+|109
+|
+|align="left"|L'âme de l'été
+|7 sept 2013
+|
+|-
+|159
+|110
+|
+|align="left"|Le renouvellement permanent de la diversité
+|14 sept 2013
+|
+|-
+|160
+|111
+|
+|align="left"|Petits cerveaux, esprits brillants
+|21 sept 2013
+|
+|-
+|161
+|112
+|
+|align="left"|Voyage au-delà des apparences
+|28 sept 2013
+|
+|-
+|162
+|034
+|R1
+|align="left"|Les gardiennes des arbres
+|5 oct 2013
+|
+|-
+|163
+|113
+|
+|align="left"|La tapisserie tout entière
+|12 oct 2013
+|
+|-
+|164
+|114
+|
+|align="left"|Comme de longs échos
+|19 oct 2013
+|
+|-
+|165
+|115
+|
+|align="left"|Détisser les mailles de l'univers
+|26 oct 2013
+|
+|-
+|166
+|116
+|
+|align="left"|Quand la science rencontre l'art
+|2 nov 2013
+|
+|-
+|167
+|117
+|
+|align="left"|Le partage des émotions
+|9 nov 2013
+|align="left"|"Le tableau va émouvoir l'âme de celui qui le contemple si chacun des personnages peints révèle clairement les mouvements de sa propre âme… Nous pleurons avec ceux qui pleurent, rions avec ceux qui rient, et nous souffrons avec ceux souffrent." '''De pictura''', ''Leon Battista Alberti''.
+|-
+|168
+|118
+|
+|align="left"|Le souci de l'autre
+|16 nov 2013
+|align="left"|L'empathie, extraordinaire capacité de vivre ce que vit l'autre, naît d'une synchronisation des mouvements et d'une contagion des émotions. Quand et comment a émergé cette capacité d'anticipation et de partage des intentions et besoins des autres ?
+|-
+|169
+|119
+|
+|align="left"|Donner, recevoir (1)
+|23 nov 2013
+|align="left"|Le monde subjectif est aussi un monde intersubjectif, le monde de moi et de toi, et tracer une frontière entre les deux n’est pas facile, parce que les autres font partie de nous.
+|-
+|170
+|120
+|
+|align="left"|Donner, recevoir (2)
+|30 nov 2013
+|align="left"|"Aussi égoïste que l’on considère l’homme, […] sa nature le conduit à s’intéresser au devenir des autres, et qui lui rendent leur bonheur nécessaire, bien qu’il n’en dérive rien, excepté le plaisir de voir le bonheur des autres." '''Adam Smith'''
+|-
+|171
+|121
+|
+|align="left"|À la recherche de nos premiers ancêtres humains
+|14 déc 2013
+|
+|-
+|172
+|066
+|R2
+|align="left"|Les battements du temps (27) - Le langage des oiseaux (2)
+|21 déc 2013
+|
+|-
+|173
+|055
+|R3
+|align="left"|les battements du temps (16) - Un cadeau de Nouvel An
+|28 déc 2013
+|
+|-
+|174
+|067
+|R1
+|align="left"|Les battements du temps (28) - Le langage des oiseaux (3)
+|4 janvier 2014
+|
+|-
+|175
+|122
+|
+|align="left"|Le chat qui allait son chemin tout seul
+|11 janvier 2014
+|
+|-
+|176
+|123
+|
+|align="left"|Apprivoiser la nature (1)
+|18 janvier 2014
+|align="left"|Et déjà le monde était vaste dans l’intelligence des Oulhamr. Ils connaissaient la marche du Soleil et de la Lune, le cycle des ténèbres suivant la lumière, de la lumière suivant les ténèbres, […] Enfin, ils connaissaient le Feu
+|-
+|177
+|124
+|
+|align="left"|Apprivoiser la nature (2)
+|25 janvier 2014
+|
+|-
+|178
+|125
+|
+|align="left"|Aux origines de l'agriculture (1)
+|{{1er}} févr 2014
+|align="left"|"Ruth songeait et Booz dormait, l’herbe était noire, Les grelots des troupeaux palpitaient vaguement, Une immense bonté tombait du firmament…" un extrait de "Booz endormi" dans ''La légende des siècles'' de '''Victor Hugo'''
+|-
+|179
+|126
+|
+|align="left"|Aux origines de l'agriculture (2)
+|8 févr 2014
+|
+|-
+|180
+|127
+|
+|align="left"|À la recherche des traces de nos ancêtres
+|15 févr 2014
+|
+|-
+|181
+|128
+|
+|align="left"|À la recherche des traces des musiques de la préhistoire
+|22 févr 2014
+|align="left"|"Les traces, par définition, ne sont jamais visibles en tant que traces. Elles ne sont visibles que si elles sont cherchées comme des marques de ce qui n’est plus là." '''Pascal Quignard''', ''Sur le Jadis''.
+|-
+|182
+|090
+|R1
+|align="left"|Le lien qui nous rattache aux autres (7) - Le retour d'Ulysse
+|{{1er}} mars 2014
+|
+|-
+|183
+|091
+|R1
+|align="left"|Le lien qui nous rattache aux autres (8)
+|8 mars 2014
+|
+|-
+|184
+|129
+|
+|align="left"|La découverte du Nouveau Monde (1)
+|15 mars 2014
+|align="left"|"Lorsque [des] hommes sont séparés de nous par de grandes différences d’apparence ou d’habitudes, l’expérience nous montre malheureusement combien le temps est long avant que nous les considérions comme nos semblables." '''Charles Darwin'''
+|-
+|185
+|130
+|
+|align="left"|La découverte du Nouveau Monde (2)
+|22 mars 2014
+|align="left"|"La beauté devant moi, fasse que je marche, La beauté derrière moi, fasse que je marche, La beauté au-dessus de moi, fasse que je marche, La beauté au-dessous de moi, fasse que je marche, La beauté, tout autour de moi, fasse que je marche." '''Klédze hatal''', ''Les chants sacrés qui appartiennent à la nuit''.
+|-
+|186
+|131
+|
+|align="left"|La découverte du Nouveau Monde (3)
+|29 mars 2014
+|align="left"|"Cela se termina sur la plage – Cela se termina par une carcasse de serpent en forme de navire – Et lorsqu’il l’eut construit, il s’y assit et prit le large, – Un navire qui glissait sur ces eaux enflammées, nul ne sachant – quand il atteindrait le pays du Soleil Rouge – […]" ''Le vol de Quetzalcoatl'', '''Peuple Aztèque'''
+|-
+|187
+|060
+|R1
+|align="left"|Les battements du temps (21)
+|5 avril 2014
+|
+|-
+|188
+|132
+|
+|align="left"|À la découverte de Neandertal en nous… (1)
+|12 avril 2014
+|
+|-
+|189
+|133
+|
+|align="left"|Présences
+|19 avril 2014
+|align="left"|"Il n'y a pas d'absence s'il persiste  au-moins le souvenir de l'absence." '''Anne Michaels''', ''Fugitives pièces''
+|-
+|190
+|134
+|
+|align="left"|À la découverte de Neandertal en nous (2)
+|26 avril 2014
+|
+|-
+|191
+|135
+|
+|align="left"|Entre gènes et environnements
+|3 mai 2014
+|align="left"|"L’intérieur et l’extérieur s’interpénètrent et un être vivant est à la fois le produit et le lieu de cette interaction." '''Richard Lewontin'''
+|-
+|192
+|136
+|
+|align="left"|Enchantements et illusions (1)
+|10 mai 2014
+|align="left"|S'émerveiller des splendeurs mystérieuses de la nature, et parfois, soudain, derrière les apparences, découvrir qu'il s'agit d'une illusion. Qu'est-ce qui est illusion - et qu'est-ce qui est réalité ?
+|-
+|193
+|137
+|
+|align="left"|Enchantements et illusions (2)
+|17 mai 2014
+|
+|-
+|194
+|138
+|
+|align="left"|Cette étoffe sur laquelle naissent les rêves (9)
+|24 mai 2014
+|
+|-
+|195
+|139
+|
+|align="left"|Au pays de la mémoire et de l'oubli
+|31 mai 2014
+|align="left"|"Qui étais-tu, petit homme ? Comment es-tu devenu une personne capable de penser, et si tu étais capable de penser, où tes pensées t’ont-elles mené ? Tes premières pensées, vestiges de la manière dont, petit enfant, tu vivais à l’intérieur de toi-même. Tu ne peux te souvenir que de certaines d’entre elles, bribes et morceaux isolés, brefs éclairs de reconnaissance qui surgissent en toi de manière inattendue, à certains moments, au hasard, emmenés par l’odeur de quelque chose, ou le toucher de quelque chose, ou la manière dont la lumière tombe sur quelque chose, dans le ici et maintenant de ta vie adulte." '''Paul Auster''', ''Excursions dans la zone intérieure''
+|-
+|196
+|140
+|
+|align="left"|L'image qui manque
+|7 juin 2014
+|
+|-
+|197
+|141
+|
+|align="left"|Paysages
+|14 juin 2014
+|
+|-
+|198
+|085
+|R1
+|align="left"|Le lien qui nous rattache aux autres (2)
+|21 juin 2014
+|
+|-
+|199
+|096
+|R1
+|align="left"|Aux origines du langage (1)
+|29 juin 2014
+|
+|-
+|200
+|097
+|R1
+|align="left"|Aux origines du langage (2)
+|6 juillet 2014
+|
+|-
+|201
+|098
+|R1
+|align="left"|Aux origines du langage (3)
+|13 juillet 2014
+|
+|-
+|202
+|100
+|R1
+|align="left"|La forme des mots
+|20 juillet 2014
+|
+|-
+|203
+|101
+|R1
+|align="left"|Clarté
+|27 juillet 2014
+|
+|-
+|204
+|103
+|R1
+|align="left"|La mémoire et l'oubli
+|3 août 2014
+|
+|-
+|205
+|104
+|R1
+|align="left"|L'empreinte du danger
+|10 août 2014
+|
+|-
+|206
+|105
+|R1
+|align="left"|Le passant du temps
+|17 août 2014
+|
+|-
+|207
+|106
+|R1
+|align="left"|Traces
+|24 août 2014
+|
+|-
+|208
+|122
+|R1
+|align="left"|Le chat qui allait son chemin tout seul
+|30 août 2014
+|
+|-
+|209
+|142
+|
+|align="left"|Argile du passé (1)
+|6 sept 2014
+|
+|-
+|210
+|143
+|
+|align="left"|Une hérédité des caractères acquis? (1)
+|13 sept 2014
+|
+|-
+|211
+|144
+|
+|align="left"|Une hérédité des caractères acquis (2)
+|20 sept 2014
+|
+|-
+|212
+|145
+|
+|align="left"|Le sentiment d'injustice
+|27 sept 2014
+|align="left"|L'injustice, c'est la négation de la justice. Jean-Claude Ameisen se penche cette semaine sur ce sentiment que nous avons tous ressenti un jour.
+|-
+|213
+|146
+|
+|align="left"|La glace et le feu
+|4 oct 2014
+|
+|-
+|214
+|051
+|R1
+|align="left"|Les battements du temps (12) - "Ce n'était pas en moi, c'était moi…"
+|11 oct 2014
+|
+|-
+|215
+|147
+|
+|align="left"|À la recherche des mystères de la mémoire (1)
+|18 oct 2014
+|align="left"|"Depuis quelque temps [il] pensait à certains épisodes de sa jeunesse, des épisodes sans suite, coupés net, des visages sans noms, des rencontres fugitives […] Il ne cesserait de se poser des questions là dessus, et il n’aurait jamais de réponses. Ces bribes seraient toujours pour lui énigmatiques […]<br>Appartenaient-elles au rêve ou à la réalité ?" '''Patrick Modiano''', ''L’Horizon''.
+|-
+|216
+|148
+|
+|align="left"|À la recherche des mystères de la mémoire (2)
+|25 oct 2014
+|
+|-
+|217
+|149
+|
+|align="left"|La mémoire des jours qui furent les tiens sur terre (1)
+|{{1er}} nov 2014
+|align="left"|"Qu’est devenue la mémoire des jours qui furent les tiens sur terre, et tissèrent joie et douleur, et furent pour toi l’univers?" '''Jorge Luis Borges'''
+|-
+|218
+|150
+|
+|align="left"|La mémoire des jours qui furent les tiens sur terre (2)
+|8 nov 2014
+|
+|-
+|219
+|151
+|
+|align="left"|Quand l'écho dessine les contours du monde (1)
+|15 nov 2014
+|
+|-
+|220
+|152
+|
+|align="left"|Des cultures dans le monde animal
+|22 nov 2014
+|align="left"|"Il y a plus de soixante ans, Kinji Imanishi proposa l’idée que, si les animaux peuvent apprendre les uns des autres, ils vont inévitablement développer des comportements différents dans différentes populations, aboutissant à l’existence de variations ‘culturelles’ à l’intérieur d’une même espèce. C’était une hypothèse simple, mais tellement en avance sur son temps que peu de chercheurs occidentaux y prêtèrent attention. Et c’est seulement récemment que la notion de cultures animales est devenu un sujet de recherche important." '''Frans de Waal''', ''Science 2013''
+|-
+|221
+|153
+|
+|align="left"|La musique des mots
+|29 nov 2014
+|align="left"|"Toute vie véritable est rencontre […] Au commencement est la relation." '''Martin Buber''', ''Je et Tu''
+|-
+|222
+|154
+|
+|align="left"|Des chants appris avant de naître
+|6 déc 2014
+|align="left"|"Chez les canards sur la rive de l’Yonne […], les œufs crient trois jours avant l’éclosion. La canne qui les couve dialogue avec ces cris obscurs, de faible intensité, sans visage, qui montent au-dessous d’elle. Étrange appel à un corps autre jamais vu, à un soleil jamais vu". '''Pascal Quignard''', ''Leçons de solfège et de piano''.
+|-
+|223
+|155
+|
+|align="left"|Quand l'écho dessine les contours du monde (2)
+|13 déc 2014
+|
+|-
+|224
+|156
+|
+|align="left"|Quand l'écho dessine les contours du monde (3)
+|20 déc 2014
+|
+|-
+|225
+|118
+|R1
+|align="left"|Le souci de l'autre
+|27 déc 2014
+|align="left"|"Les actes qui sont en accord avec la Nature, comme aider les autres, portent en eux-mêmes leur propre récompense. Comment, dans ce cas, peux-tu te lasser d’aider les autres quand, en aidant les autres, tu t’aides toi-même?" '''Marc-Aurèle''', ''Pensées pour moi-même''
+|-
+|226
+|116
+|R1
+|align="left"|Quand la science rencontre l'art
+|3 janvier 2015
+|
+|-
+|227
+|157
+|
+|align="left"|Les survivants des anciens mondes (1)
+|10 janvier 2015
+|
+|-
+|228
+|158
+|
+|align="left"|Les survivants des anciens mondes (2)
+|17 janvier 2015
+|align="left"|"« L’Espoir » est la chose avec des plumes – Qui est perchée dans l’âme – Et qui chante la mélodie sans les paroles – Et jamais ne s’arrête – jamais – Et qui est la plus douce – quand on l’entend – dans la Tempête –" '''Emily Dickinson''', ''« Hope » is the thing with feathers''
+|-
+|229
+|159
+|
+|align="left"|Les survivants des anciens mondes (3)
+|24 janvier 2015
+|
+|-
+|230
+|160
+|
+|align="left"|Des animaux pharmaciens et médecins (1)
+|31 janvier 2015
+|
+|-
+|231
+|161
+|
+|align="left"|Des animaux pharmaciens et médecins (2)
+|7 févr 2015
+|
+|-
+|232
+|084
+|R1
+|align="left"|Le lien qui nous rattache aux autres (1)
+|14 févr 2015
+|align="left"|"Le monde subjectif est aussi un monde inter-subjectif, le monde de 'je' et de 'tu', et tracer une frontière entre les deux n’est pas facile, parce que les autres font partie de nous." '''Siri Hustvedt''', ''La femme qui tremble''
+|-
+|233
+|162
+|
+|align="left"|Des animaux pharmaciens et médecins (3)
+|21 févr 2015
+|
+|-
+|234
+|163
+|
+|align="left"|Voyage avec Oliver Sacks (3)
+|28 févr 2015
+|
+|-
+|235
+|164
+|
+|align="left"|La mémoire des jours qui furent les tiens sur terre (3)
+|7 mars 2015
+|
+|-
+|236
+|165
+|
+|align="left"|La mémoire des jours qui furent les tiens sur terre (4)
+|14 mars 2015
+|
+|-
+|237
+|166
+|
+|align="left"|De la musique avant toute chose
+|21 mars 2015
+|
+|-
+|238
+|167
+|
+|align="left"|Soi-même en train de vivre (1)
+|18 avril 2015
+|align="left"|"Il y a des langues qui ont un mot pour décrire cette sorte d’expérience. En allemand, on dit : Erlebnis. En espagnol : vivencia. Mais il n’y a pas de mot français pour saisir d’un seul trait la vie comme expérience d’elle même. Il faut employer des périphrases. Ou alors utiliser le mot « vécu », qui est approximatif. Et contestable. D’abord et surtout, c’est passif, le vécu. Et puis c’est au passé. Mais l’expérience de la vie que la vie fait d’elle-même, de soi-même en train de la vivre, c’est actif. Et c’est au présent, forcément. C’est-à-dire qu’elle se nourrit du passé pour se projeter dans l’avenir." '''Jorge Semprun''', ''L’Ecriture ou la vie''
+|-
+|239
+|168
+|
+|align="left"|Soi-même en train de vivre (2)
+|25 avril 2015
+|
+|-
+|240
+|169
+|
+|align="left"|Soi-même en train de vivre (3)
+|2 mai 2015
+|
+|-
+|241
+|170
+|
+|align="left"|La quête de la vie-sans-fin (1)
+|9 mai 2015
+|
+|-
+|242
+|171
+|
+|align="left"|La quête de la vie-sans-fin (2)
+|16 mai 2015
+|
+|-
+|243
+|172
+|
+|align="left"|La quête de la vie-sans-fin (3)
+|23 mai 2015
+|align="left"|"Quelle est donc cette trame – Du sera, de l’est, et du fut ? – Quel est ce fleuve – Le long duquel coule le Gange ? – Quel est ce fleuve  – ont la source est inconcevable ? – Quel est ce fleuve – Qui emporte épées et mythologies ? – […] Il coule dans le sommeil, le désert, dans une cave. – Le fleuve m’emporte et je suis ce fleuve. – Je suis fait d’une matière périssable, de temps mystérieux. – Peut-être la source se trouve-t-elle en moi. – Peut-être de mon ombre – Sourdent, fatals, illusoires, les jours." '''Jorge Luis Borges''', ''La proximité de la mer. Une anthologie de 99 poèmes''
+|-
+|244
+|173
+|
+|align="left"|Lire (2)
+|30 mai 2015
+|
+|-
+|245
+|174
+|
+|align="left"|Déchiffrer (1)
+|6 juin 2015
+|align="left"|"Dans toute « l’histoire de l’Histoire », il n’y a peut-être pas d’aventure plus extraordinaire que celle qui, en un siècle, a ainsi mené les savants d’une première étincelle, à laquelle personne n’avait d’abord pris garde, à tout un flamboiement de découvertes et de déchiffrements, tous plus ardus, ingénieux et inimaginables les uns que les autres et, de la sorte, à la remise au jour d’énormes et capitales portions de notre passé jusque-là à jamais égarées dans le temps." '''Jean Bottéro''', ''Mésopotamie. L’écriture, la raison et les dieux''
+|-
+|246
+|175
+|
+|align="left"|Déchiffrer (2)
+|13 juin 2015
+|align="left"|"Plutarque raconte […] qu’au IVe siècle avant notre ère, Agésilas, roi de Sparte, fit ouvrir à Thèbes la tombe prétendue d’Alcmène, mère d’Héraclès. On y découvrit, entre autres objets qui peuvent remonter à l’Age du Bronze, « une tablette de bronze avec des caractères inscrits d’une stupéfiante antiquité. On ne put rien déchiffrer, bien que, après lavage du bronze, les signes fussent fort clairs. Les caractères avaient une allure à la fois particulière et barbare, très proche de ceux qu’utilisent les Égyptiens. C’est pourquoi Agésilas, dit-on, en envoya une copie au roi d’Egypte en lui demandant de la soumettre aux prêtres pour interprétation. » Certains modernes ont supposé, bien que d’autres hypothèses soient possibles, que cette tablette était écrite en Linéaire B." '''Pierre-Vidal Naquet''', ''Introduction à Le déchiffrement du Linéaire B''
+|-
+|247
+|176
+|
+|align="left"|Déchiffrer (3)
+|20 juin 2015
+|align="left"|"Seul, le divin Ulysse restait dans la grande salle à méditer la mort des prétendants. Mais déjà Pénélope, la plus sage des femmes, descendait de sa chambre, ayant pris avec elle deux de ses chambrières qui lui mirent, auprès du foyer, une chaise où la reine s’assit. Et la reine lui dit : « Ce que je veux d’abord te demander, mon hôte, c’est ton nom et ton peuple, et ta ville et ta lignée. Car tu n’es pas sorti du chêne légendaire ou de quelque rocher. »" '''Homère''', ''L’Odyssée, Chant 19''
+|-
+|248
+|130
+|R1
+|align="left"|La découverte du Nouveau Monde (2)
+|27 juin 2015
+|align="left"|"La beauté devant moi, fasse que je marche – La beauté derrière moi, fasse que je marche – La beauté au-dessus de moi, fasse que je  – marche – La beauté au-dessous de moi, fasse que je marche – La beauté, tout autour de moi, fasse que je marche." '''Klédze hatal''', ''Les chants sacrés qui appartiennent à la nuit''
+|-
+|249
+|131
+|R1
+|align="left"|La découverte du Nouveau Monde (3)
+|4 juillet 2015
+|align="left"|"Cela se termina sur la plage – Cela se termina par une carcasse de serpent en forme de navire – Et lorsqu’il l’eut construit, il s’y assit et prit le large, – Un navire qui glissait sur ces eaux enflammées, nul ne sachant – quand il atteindrait le pays du Soleil Rouge – […]" ''Le vol de Quetzalcoatl'', '''Peuple Aztèque'''
+|-
+|250
+|150
+|R1
+|align="left"|La mémoire des jours qui furent les tiens sur terre (2)
+|11 juillet 2015
+|
+|-
+|251
+|146
+|R1
+|align="left"|La glace et le feu
+|18 juillet 2015
+|
+|-
+|252
+|154
+|R1
+|align="left"|Des chants appris avant de naître
+|25 juillet 2015
+|align="left"|"Chez les canards sur la rive de l’Yonne […], les œufs crient trois jours avant l’éclosion. La canne qui les couve dialogue avec ces cris obscurs, de faible intensité, sans visage, qui montent au-dessous d’elle. Étrange appel à un corps autre jamais vu, à un soleil jamais vu". '''Pascal Quignard''', ''Leçons de solfège et de piano''.
+|-
+|253
+|136
+|R1
+|align="left"|Enchantements et illusions (1)
+|{{1er}} août 2015
+|align="left"|"Les mystères du mimétisme exerçaient sur moi une attirance particulière. Ces phénomènes exprimaient une perfection artistique habituellement associée aux œuvres créées par l’homme. Je découvrais dans la nature les délices gratuits que je cherchais dans l’art. Tous deux étaient une forme de magie, tous deux étaient des jeux faits d’un entremêlement d’enchantements et d’illusions." '''Vladimir Nabokov''', ''Autres rivages''
+|-
+|254
+|139
+|R1
+|align="left"|Au pays de la mémoire et de l'oubli
+|8 août 2015
+|align="left"|"Qui étais-tu, petit homme ? Comment es-tu devenu une personne capable de penser, et si tu étais capable de penser, où tes pensées t’ont-elles mené ? Tes premières pensées, vestiges de la manière dont, petit enfant, tu vivais à l’intérieur de toi-même. Tu ne peux te souvenir que de certaines d’entre elles, bribes et morceaux isolés, brefs éclairs de reconnaissance qui surgissent en toi de manière inattendue, à certains moments, au hasard, emmenés par l’odeur de quelque chose, ou le toucher de quelque chose, ou la manière dont la lumière tombe sur quelque chose, dans le ici et maintenant de ta vie adulte." '''Paul Auster''', ''Excursions dans la zone intérieure''
+|-
+|255
+|149
+|R1
+|align="left"|La mémoire des jours qui furent les tiens sur terre (1)
+|15 août 2015
+|align="left"|
+|-
+|256
+|133
+|R1
+|align="left"|Présences
+|22 août 2015
+|align="left"|"Il n'y a pas d'absence s'il persiste  au-moins le souvenir de l'absence." '''Anne Michaels''', ''Fugitives pièces''
+|-
+|257
+|177
+|
+|align="left"|Cueilleurs de miels 
+|29 août 2015
+|align="left"|"Pour les Mbendjélé, le miel occupe une place centrale dans les origines de l’humanité. […] [Ils] collectent près d’une vingtaine de miels différents." '''Jérome Lewis in : E Tourneret et S. de Saint Pierre''', ''Les Routes du miel''.
+|-
+|258
+|178
+|
+|align="left"|Oliver Sacks (1)
+|5 sept 2015
+|
+|-
+|259
+|179
+|
+|align="left"|Oliver Sacks (2)
+|12 sept 2015
+|
+|-
+|260
+|180
+|
+|align="left"|Oliver Sacks (3)
+|19 sept 2015
+|
+|-
+|261
+|181
+|
+|align="left"|Lumière (1)
+|26 sept 2015
+|align="left"|"Le soleil qui court sur le monde J’en suis certain comme de toi Le soleil met la terre au monde." '''Paul Eluard''', ''Aube''.
+|-
+|262
+|046
+|R4
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|3 oct 2015
+|align="left"|"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''.
+|-
+|263
+|182
+|
+|align="left"|Lumière (3)
+|10 oct 2015
+|align="left"|L'émission ''Les battements du temps (7) - Nostalgie de la lumière'' semble être l'émission ''Lumière (2)''
+|-
+|264
+|183
+|
+|align="left"|La lumière et le temps (1)
+|17 oct 2015
+|
+|-
+|265
+|184
+|
+|align="left"|La lumière et le temps (2)
+|24 oct 2015
+|
+|-
+|266
+|185
+|
+|align="left"|Un animal qui vit de la photosynthèse ?
+|31 oct 2015
+|
+|-
+|267
+|186
+|
+|align="left"|La lumière et le temps (3)
+|07 nov 2015
+|
+|-
+|268
+|187
+|
+|align="left"|Argile du passé (2)
+|14 nov 2015
+|
+|-
+|269
+|188
+|
+|align="left"|Liberté, Égalité, Fraternité
+|21 nov 2015
+|align="left"|"Entre tous mes tourments entre la mort et moi Entre mon désespoir et la raison de vivre Il y a l’injustice et ce malheur des hommes Que je ne peux admettre il y a ma colère […] Tu ne supportais pas l’oppression ni l’injure Tu chantais en rêvant le bonheur sur la terre Tu rêvais d’être libre et je te continue." '''Paul Eluard''', ''Dit de la force de l’amour''.
+"J’ai ancré l’espérance Aux racines de la vie Face aux ténèbres J’ai dressé des clartés Planté des flambeaux À la lisière des nuits Des clartés qui persistent Des flambeaux qui se glissent Entre ombres et barbaries Des clartés qui renaissent Des flambeaux qui se dressent Sans jamais dépérir J’enracine l’espérance Dans le terreau du cœur." '''Andrée Chédid''', ''L’espérance''.
+|-
+|270
+|189
+|
+|align="left"|Argile du passé (3)
+|28 nov 2015
+|
+|-
+|271
+|190
+|
+|align="left"|Argile du passé (4)
+|5 déc 2015
+|
+|-
+|272
+|191
+|
+|align="left"|La Tectonique des plaques
+|12 déc 2015
+|align="left"|"Un grave tremblement de terre détruit en un instant nos certitudes anciennes : la Terre, le symbole même de la solidité, a bougé sous nos pieds comme une fine croûte au-dessus d’un liquide. Une seconde a fait dans l’esprit surgir une étrange idée d’insécurité que des heures de réflexion n’auraient pas fait naître."
+'''Charles Darwin''', ''Journal du voyage du Beagle''.
+|-
+|273
+|192
+|
+|align="left"|Aux origines de la Lune
+|19 déc 2015
+|
+|-
+|274
+|118
+|R2
+|align="left"|Le souci de l'autre
+|26 déc 2015
+|align="left"|"Les actes qui sont en accord avec la Nature, comme aider les autres, portent en eux-mêmes leur propre récompense. Comment, dans ce cas, peux-tu te lasser d’aider les autres quand, en aidant les autres, tu t’aides toi-même ?" '''Marc-Aurèle''', ''Pensées pour moi-même''.
+|-
+|275
+|158
+|R1
+|align="left"|Les survivants de l'ancien monde (2)
+|02 janvier 2016
+|align="left"|"« L’Espoir » est la chose avec des plumes –<br>Qui est perchée dans l’âme –<br>Et qui chante la mélodie sans les paroles –<br>Et jamais ne s’arrête – jamais –<br>Et qui est la plus douce – quand on l’entend – dans la Tempête –" '''Emily Dickinson''', ''« Hope » is the thing with feathers''.
+|-
+|276
+|193
+|
+|align="left"|Les battements du temps (39) - Éclats de mondes disparus (3)
+|09 janvier 2016
+|
+|-
+|277
+|194
+|
+|align="left"|Le feu de la Terre
+|16 janvier 2016
+|
+|-
+|278
+|195
+|
+|align="left"|Les battements du temps (40) - Éclats de mondes disparus (4) 
+|23 janvier 2016
+|align="left"|"Les oiseaux […], c'est comme l'amour, ça a toujours existé. Toutes les espèces disparaissent, mais pas les oiseaux. Comme l'amour." '''Marguerite Duras''', ''Le marin de Gibraltar''.
+|-
+|279
+|196
+|
+|align="left"|Chants et dialogues
+|31 janvier 2016
+|
+|-
+|280
+|197
+|
+|align="left"|Les battements du temps (41) - Éclats de mondes disparus (5)
+|6 févr 2016
+|align="left"|
+|-
+|281
+|198
+|
+|align="left"|Un abominable mystère
+|13 févr 2016
+|align="left"|
+|-
+|282
+|060
+|R2
+|align="left"|Les battements du temps (21)
+|20 févr 2016
+|align="left"|
+|-
+|283
+|199
+|
+|align="left"|Darwin et le problème de l'âge de la Terre (1)
+|27 févr 2016
+|align="left"|
+|-
+|284
+|200
+|
+|align="left"|Darwin et le problème de l'âge de la Terre (2)
+|5 mars 2016
+|align="left"|
+|-
+|285
+|201
+|
+|align="left"|Darwin et le problème de l'âge de la Terre (3)
+|12 mars 2016
+|align="left"|
+|-
+|286
+|202
+|
+|align="left"|Sur les épaules de Darwin, en direct à Livre Paris
+|19 mars 2016
+|align="left"|
+|-
+|287
+|203
+|
+|align="left"|À la découverte de la radioactivité
+|26 mars 2016
+|align="left"|
+|-
+|288
+|173
+|R1
+|align="left"|Lire (2)
+|2 avr 2016
+|align="left"|
+|-
+|289
+|204
+|
+|align="left"|Marie Curie
+|9 avr 2016
+|align="left"|
+|-
+|290
+|205
+|
+|align="left"|Pierre et Marie Curie
+|16 avr 2016
+|align="left"|
+|-
+|291
+|119
+|R1
+|align="left"|Donner, recevoir (1)
+|23 avr 2016
+|align="left"|"Le monde subjectif est aussi un monde intersubjectif, le monde de moi et de toi, et tracer une frontière entre les deux n’est pas facile, parce que les autres font partie de nous." '''Siri Hustvedt''', ''La femme qui tremble''.
+|-
+|292
+|206
+|
+|align="left"|Les Forges du ciel (1)
+|30 avr 2016
+|align="left"|"Le ciel ne nous est pas étranger. Nous lui devons l’existence" '''Hubert Reeves''', ''Poussières d’étoiles''.
+"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''.
+|-
+|293
+|207
+|
+|align="left"|Les Forges du ciel (2)
+|7 mai 2016
+|align="left"|"Ici, sur le bord de ce que nous savons, au contact avec l’océan de tout ce que nous ne savons pas, brillent le mystère du monde, la beauté du monde. Une beauté à couper le souffle." '''Carlo Rovelli''', ''Sept brèves leçons de physique''.
+|-
+|294
+|208
+|
+|align="left"|Sur les épaules de Darwin, en direct du Festival Etonnants-Voyageurs, à Saint-Malo
+|14 mai 2016
+|align="left"|
+|-
+|295
+|209
+|
+|align="left"|Voyages (1)
+|21 mai 2016
+|align="left"|
+|-
+|296
+|120
+|R1
+|align="left"|Donner, recevoir (2)
+|28 mai 2016
+|align="left"|"Aussi égoïste que l’on considère l’homme, il y a à l’évidence des principes dans sa nature qui le conduisent à s’intéresser au devenir des autres, et qui lui rendent leur bonheur nécessaire, bien qu’il n’en dérive rien, excepté le plaisir de voir le bonheur des autres." '''Adam Smith''', ''Théorie des sentiments moraux''.
+|-
+|297
+|210
+|
+|align="left"|Voyages (2)
+|4 juin 2016
+|align="left"|
+|-
+|298
+|211
+|
+|align="left"|Dans les ombres rêveuses
+|11 juin 2016
+|align="left"|"Ô Mémoire! Toi, monde à mi-chemin, entre la terre et le paradis, où les choses délabrées et les personnes aimées, perdues, dans les ombres rêveuses se lèvent." '''Abraham Lincoln''', ''My Childhood Home I see again''.
+|-
+|299
+|212
+|
+|align="left"|Dans l'oubli de nos métamorphoses (1)
+|18 juin 2016
+|align="left"|
+|-
+|300
+|213
+|
+|align="left"|Dans l'oubli de nos métamorphoses (2)
+|25 juin 2016
+|align="left"|"Nous vivons dans l’oubli de nos métamorphoses" '''Paul Eluard''', ''Le dur désir de durer''.
+|-
+|301
+|073
+|R2
+|align="left"|Les battements du temps (35) - Les chants de la nature (1)
+|2 juil 2016
+|align="left"|"Ou la chute d’eau, ou la musique entendue si profondément  qu’elle n’est pas entendue du tout, mais tu es la musique  tant que dure la musique." '''TS Eliot''', ''Four Quartets''
+|-
+|302
+|074
+|R2
+|align="left"|Les battements du temps (36) - Les chants de la nature (2)
+|9 juil 2016
+|align="left"|"Je recherche le tarabustant sonore datant d’avant le langage." '''Pascal Quignard''', ''La haine de la musique''
+|-
+|303
+|188
+|R1
+|align="left"|Liberté Egalité Fraternité
+|16 juil 2016
+|align="left"|"Entre tous mes tourments entre la mort et moi. Entre mon désespoir et la raison de vivre. Il y a l’injustice et ce malheur des hommes. Que je ne peux admettre il y a ma colère. […] Tu ne supportais pas l’oppression ni l’injure. Tu chantais en rêvant le bonheur sur la terre. Tu rêvais d’être libre et je te continue." '''Paul Eluard''', ''Dit de la force de l’amour''.
+|-
+|304
+|166
+|R1
+|align="left"|De la musique avant toute chose
+|23 juil 2016
+|align="left"|
+|-
+|305
+|170
+|R1
+|align="left"|La quête de la vie-sans-fin (1)
+|30 juil 2016
+|align="left"|
+|-
+|306
+|171
+|R1
+|align="left"|La quête de la vie-sans-fin (2)
+|6 août 2016
+|align="left"|
+|-
+|307
+|172
+|R1
+|align="left"|La quête de la vie-sans-fin (3)
+|13 août 2016
+|align="left"|"Quelle est donc cette trame – Du sera, de l’est, et du fut ? – Quel est ce fleuve – Le long duquel coule le Gange ? – Quel est ce fleuve  – ont la source est inconcevable ? – Quel est ce fleuve – Qui emporte épées et mythologies ? – […] Il coule dans le sommeil, le désert, dans une cave. – Le fleuve m’emporte et je suis ce fleuve. – Je suis fait d’une matière périssable, de temps mystérieux. – Peut-être la source se trouve-t-elle en moi. – Peut-être de mon ombre – Sourdent, fatals, illusoires, les jours." '''Jorge Luis Borges''', ''La proximité de la mer. Une anthologie de 99 poèmes''.
+|-
+|308
+|174
+|R1
+|align="left"|Déchiffrer (1)
+|20 août 2016
+|align="left"|"Dans toute « l’histoire de l’Histoire », il n’y a peut-être pas d’aventure plus extraordinaire que celle qui, en un siècle, a ainsi mené les savants d’une première étincelle, à laquelle personne n’avait d’abord pris garde, à tout un flamboiement de découvertes et de déchiffrements, tous plus ardus, ingénieux et inimaginables les uns que les autres et, de la sorte, à la remise au jour d’énormes et capitales portions de notre passé jusque-là à jamais égarées dans le temps." '''Jean Bottéro''', ''Mésopotamie. L’écriture, la raison et les dieux''.
+|-
+|309
+|176
+|R1
+|align="left"|Déchiffrer (3)
+|27 août 2016
+|align="left"|"Seul, le divin Ulysse restait dans la grande salle à méditer la mort des prétendants. Mais déjà Pénélope, la plus sage des femmes, descendait de sa chambre, ayant pris avec elle deux de ses chambrières qui lui mirent, auprès du foyer, une chaise où la reine s’assit. Et la reine lui dit : « Ce que je veux d’abord te demander, mon hôte, c’est ton nom et ton peuple, et ta ville et ta lignée. Car tu n’es pas sorti du chêne légendaire ou de quelque rocher. »" '''Homère''', ''L’Odyssée, Chant 19''.
+|-
+|310
+|214
+|
+|align="left"|Une ancienne alliance entre un oiseau sauvage et les humains
+|3 sept 2016
+|align="left"|"La référence la plus ancienne que j’ai trouvée concernant les Grands Indicateurs et leur comportement qui consiste à guider des hommes jusqu’aux nids d’abeilles est dans un livre intitulé Ethiopie Orientale, écrit par Joao dos Santos, un missionnaire Portugais à Sofala, […] Il semble que l’oiseau avait attiré l’attention du bon père parce qu’il l’avait vu entrer par la fenêtre de l’église de sa mission, et se nourrir de petits morceaux de cire qu’il prélevait sur les cierges qui étaient sur l’autel."  '''Herbert Friedmann''', ''The Honey-guides''
+|-
+|311
+|215
+|
+|align="left"|À la rencontre de la Pensée chinoise (1)
+|10 sept 2016
+|align="left"|"Il y eut un commencement. Il y eut un commencement au commencement. Il y eut un commencement au commencement du commencement. Il y eut l’être. Il y eut le non-être. Il y eut ce qui précéda le non-être. Il y eut ce qui précéda ce qui n’était pas encore le non être." '''Zhuang Zi''', (IVe siècle avant notre ère).
+|-
+|312
+|216
+|
+|align="left"|À la rencontre de la Pensée chinoise (2)
+|17 sept 2016
+|align="left"|L'un des grands textes du taoïsme, "le Tchouang-tseu", rédigé sous la dynastie des Han, relate l'émergence du monde : "le ciel et la terre n'étaient pas encore formés, tout était vaste et immense, caverneux et informe". Mais il y a tant d'autres récits du commencement d'origine chinoise… Découvrons-les !
+|-
+|313
+|217
+|
+|align="left"|Déluges
+|24 sept 2016
+|align="left"|Dans chaque région de chaque continent où nos ancêtres ont posé les pieds, il y a des récits qui disent comment est née l'humanité, ces récits rapportent aussi la survenue d'un déluge, d'un cataclysme, d'une terrifiante destruction, d'une dissolution du monde, et un recommencement…
+|-
+|314
+|218
+|
+|align="left"|Le Passage du Nord-Ouest
+|{{1er}} oct 2016
+|align="left"|Le sol est morcelé en une dizaine de grandes plaques qui s'éloignent des dorsales océanes qui leur donnent naissance. Les plaques s'éloignent d'elles et en s'éloignant se rapprochent d'autres plaques et forment les volcans, des montages, des zones de subduction, produisent des séismes et tant d'autres phénomènes…
+|-
+|315
+|219
+|
+|align="left"|La faille de Cascadia
+|8 oct 2016
+|align="left"|Voir le sol vibrer, se déplacer, sans cesse… Cela ne fait qu'un demi siècle que la théorie de la tectonique des plaques a été adoptée. C'était au milieu des années 1960, juste après le premier voyage d'un homme dans l'espace, un peu avant qu'un premier homme pose un pied sur la Lune…
+|-
+|316
+|220
+|
+|align="left"|Le mystérieux tsunami de 1700 au Japon
+|15 oct 2016
+|align="left"|« La haute marée des eaux du soir » ou le mystérieux tsunami de 1700 au Japon. Mer, haïkus, peinture, écrits, sciences… l'envoûtant récit de Jean-Claude Ameisen.
+|-
+|317
+|221
+|
+|align="left"|Des récits et des masques
+|22 oct 2016
+|align="left"|"Un mot est mort quand il est dit, Disent certains – Je dis qu’il commence juste à vivre Ce jour-là" '''Emily Dickinson''', ''A word is dead''.
+|-
+|318
+|131
+|R2
+|align="left"|La découverte du Nouveau Monde (3)
+|29 oct 2016
+|align="left"|"Cela se termina sur la plage – Cela se termina par une carcasse de serpent en forme de navire – Et lorsqu’il l’eut construit, il s’y assit et prit le large, – Un navire qui glissait sur ces eaux enflammées, nul ne sachant – quand il atteindrait le pays du Soleil Rouge – […]" '''Peuple Aztèque''', ''Le vol de Quetzalcoatl''
+|-
+|319
+|222
+|
+|align="left"|Lire les corps
+|5 nov 2016
+|align="left"|
+|-
+|320
+|223
+|
+|align="left"|S'imaginer à la place de l'autre
+|12 nov 2016
+|align="left"|
+|-
+|321
+|224
+|
+|align="left"|Entre chien et loup
+|19 nov 2016
+|align="left"|
+|-
+|322
+|225
+|
+|align="left"|Ressentir et comprendre 
+|26 nov 2016
+|align="left"|
+|-
+|323
+|226
+|
+|align="left"|Ressentir, innover et transmettre
+|3 déc 2016
+|align="left"|
+|-
+|324
+|227
+|
+|align="left"|Des musiques venues du fond des âges
+|10 déc 2016
+|align="left"|
+|-
+|325
+|228
+|
+|align="left"|Le Grand Orchestre des Animaux
+|17 déc 2016
+|align="left"|
+|-
+|326
+|179
+|R1
+|align="left"|Oliver Sacks (2)
+|24 déc 2016
+|align="left"|
+|-
+|327
+|167
+|R1
+|align="left"|Soi-même en train de vivre (1)
+|31 déc 2016
+|align="left"|"Il y a des langues qui ont un mot pour décrire cette sorte d’expérience. En allemand, on dit : Erlebnis. En espagnol : vivencia. Mais il n’y a pas de mot français pour saisir d’un seul trait la vie comme expérience d’elle même. Il faut employer des périphrases. Ou alors utiliser le mot « vécu », qui est approximatif. Et contestable. D’abord et surtout, c’est passif, le vécu. Et puis c’est au passé. Mais l’expérience de la vie que la vie fait d’elle-même, de soi-même en train de la vivre, c’est actif. Et c’est au présent, forcément. C’est-à-dire qu’elle se nourrit du passé pour se projeter dans l’avenir." '''Jorge Semprun''', ''L’Ecriture ou la vie''.
+|-
+|328
+|229
+|
+|align="left"|Dans les abysses
+|7 janv 2017
+|align="left"|
+|-
+|329
+|230
+|
+|align="left"|Naissance d'un mythe
+|14 janv 2017
+|align="left"|
+|-
+|330
+|231
+|
+|align="left"|Apprendre avant de naître
+|21 janv 2017
+|align="left"|
+|-
+|331
+|232
+|
+|align="left"|Faire apparaître les couleurs du monde sans être capable de les voir
+|28 janv 2017
+|align="left"|
+|-
+|332
+|233
+|
+|align="left"|Éclore au monde
+|4 févr 2017
+|align="left"|"Percevoir les battements du monde. Tenter de distinguer par de-là le silence et le bruit une splendeur d'avant les mots dont le langage nous aurait éloigné : la splendeur du vivant."
+|-
+|333
+|196
+|R1
+|align="left"|Chants et Dialogues
+|11 févr 2017
+|align="left"|
+|-
+|334
+|234
+|
+|align="left"|La promesse de l'aube
+|18 févr 2017
+|align="left"|"C'est un amour dont je n'avais littéralement pas idée" '''Marie Darrieussecq'''.
+|-
+|335
+|235
+|
+|align="left"|Arpenter le monde
+|25 févr 2017
+|align="left"|Parcourir des âges depuis longtemps révolus, où nos ancêtres arpentaient le monde - mais où nous n'étions pas encore…
+|-
+|336
+|236
+|
+|align="left"|La caverne de Liang Bua 
+|4 mars 2017
+|align="left"|"La découverte - comme son âme sœur, l'amour - est une aventure aux multiples splendeurs" '''Stephen Jay Gould'''.
+|-
+|337
+|237
+|
+|align="left"|Le temps du Rêve
+|11 mars 2017
+|align="left"|"Chaque ancêtre totémique, en voyageant à travers le pays, avait, disait-on, semé une piste de mots et de notes de musiques au long de la ligne de ses [[empreinte de pas|empreintes de pas]]. Les Pistes du Rêve couvraient partout le pays, comme des voies de communication entre les nations les plus distantes. Et, en théorie du moins, la totalité de l’Australie pouvait être lue comme une partition musicale" '''Bruce Chatwin''', ''The Songlines (Le chant des pistes)''.
+|-
+|338
+|238
+|
+|align="left"|Arpenter le monde (2)
+|18 mars 2017
+|align="left"|"Voyageur, le chemin, c’est les traces de tes pas, c'est tout ; voyageur, il n'y a pas de chemin, le chemin se fait en marchant. En marchant se fait le chemin." '''Antonio Machado''', ''Proverbes et Chansons''.
+|-
+|339
+|239
+|
+|align="left"|Je me souviens… (1)
+|25 mars 2017
+|align="left"|"La mémoire est du temps incorporé" '''Marcel Proust'''.
+|-
+|340
+|240
+|
+|align="left"|Je me souviens… (2)
+|{{1er}} avr 2017
+|align="left"|"Elle pouvait se souvenir de tout. Elle pouvait tout voir par l’intermédiaire du seul œil qu’elle possédait désormais, l'œil de son esprit." '''Simon Mawer''', ''Le Palais de verre''.
+|-
+|341
+|241
+|
+|align="left"|"Je" ou "Vous"
+|8 avr 2017
+|align="left"|"Je crois que lorsqu’une tragédie survient, elle vous met face à un choix. Vous pouvez céder au vide, au néant qui emplit votre cœur, vos poumons, et restreint votre capacité à penser, ou même à respirer. Ou Vous pouvez essayer de trouver un sens." '''Sheryl Sandberg''', ''How "you" makes meaning'' Science 2017.
+|-
+|342
+|094
+|R1
+|align="left"|L'illusion de la fin de l'histoire
+|15 avr 2017
+|align="left"|"Notre imagination déploie sans cesse devant nous l’image toujours renouvelée de ce qui va pouvoir arriver, de ce qui est possible. Nous ne pouvons penser à nous sans un instant suivant, mais nous ne pouvons savoir ce que sera cet instant. Ainsi, nous ne pouvons connaître ce qui nous intéresse le plus au monde, ce qui se passera demain." '''François Jacob''', ''Le jeu des possibles''.
+|-
+|343
+|242
+|
+|align="left"|Un fleuve qui m’emporte (1)
+|22 avr 2017
+|align="left"|"Sommeil au printemps ne ressent pas l’aube – Partout entend les oiseaux chanter – Nuit passée… bruits de vent et de pluie… – Fleurs tombées… Savoir combien…" '''Meng Haoran''', ''Aube de printemps''.
+|-
+|344
+|243
+|
+|align="left"|Un fleuve qui m’emporte (2)
+|29 avr 2017
+|align="left"|"Les lumières commencent à scintiller sur les rochers, – Le long jour décline, la lente lune monte, les profonds – Gémissements de nombreuses voix tournoient. Venez, mes amis, – Il n'est pas trop tard pour partir à la recherche d'un monde nouveau." '''Alfred Tennyson''', ''Ulysse''.
+|-
+|345
+|244
+|
+|align="left"|Mémoires
+|6 mai 2017
+|align="left"|
+|-
+|346
+|245
+|
+|align="left"|Un Art de la Mémoire
+|13 mai 2017
+|align="left"|
+|-
+|347
+|246
+|
+|align="left"|Depuis la Bibliothèque Nationale de France
+|20 mai 2017
+|align="left"|
+|-
+|348
+|247
+|
+|align="left"|Le mnémoniste
+|27 mai 2017
+|align="left"|
+|-
+|349
+|117
+|R1
+|align="left"|Le partage des émotions
+|3 juin 2017
+|align="left"|"Le tableau va émouvoir l'âme de celui qui le contemple si chacun des personnages peints révèle clairement les mouvements de sa propre âme… Nous pleurons avec ceux qui pleurent, rions avec ceux qui rient, et nous souffrons avec ceux souffrent." '''De pictura''', ''Leon Battista Alberti''.
+|-
+|350
+|248
+|
+|align="left"|Un art de l'oubli? (1)
+|10 juin 2017
+|align="left"|
+|-
+|351
+|249
+|
+|align="left"|Un art de l'oubli? (2)
+|17 juin 2017
+|align="left"|
+|-
+|352
+|250
+|
+|align="left"|Visages
+|24 juin 2017
+|align="left"|
+|-
+|353
+|229
+|R1
+|align="left"|Dans les abysses
+|{{1er}} juil 2017
+|align="left"|
+|-
+|354
+|230
+|R1
+|align="left"|Naissance d'un mythe
+|8 juil 2017
+|align="left"|
+|-
+|355
+|215
+|R1
+|align="left"|À la rencontre de la pensée chinoise (1)
+|15 juil 2017
+|align="left"|"Il y eut un commencement. Il y eut un commencement au commencement. Il y eut un commencement au commencement du commencement. Il y eut l’être. Il y eut le non-être. Il y eut ce qui précéda le non-être. Il y eut ce qui précéda ce qui n’était pas encore le non être." '''Zhuang Zi''' (IVe siècle avant notre ère).
+|-
+|356
+|216
+|R1
+|align="left"|À la rencontre de la pensée chinoise (2)
+|22 juil 2017
+|align="left"|L'un des grands textes du taoïsme, "le Tchouang-tseu", rédigé sous la dynastie des Han, relate l'émergence du monde : "le ciel et la terre n'étaient pas encore formés, tout était vaste et immense, caverneux et informe". Mais il y a tant d'autres récits du commencement d'origine chinoise… Découvrons-les !
+|-
+|357
+|217
+|R1
+|align="left"|Déluges
+|29 juil 2017
+|align="left"|Dans chaque région de chaque continent où nos ancêtres ont posé les pieds, il y a des récits qui disent comment est née l'humanité, ces récits rapportent aussi la survenue d'un déluge, d'un cataclysme, d'une terrifiante destruction, d'une dissolution du monde, et un recommencement…
+|-
+|358
+|218
+|R1
+|align="left"|Le passage du Nord-Ouest
+|5 août 2017
+|align="left"|Le sol est morcelé en une dizaine de grandes plaques qui s'éloignent des dorsales océanes qui leur donnent naissance. Les plaques s'éloignent d'elles et en s'éloignant se rapprochent d'autres plaques et forment les volcans, des montages, des zones de subduction, produisent des séismes et tant d'autres phénomènes…
+|-
+|359
+|219
+|R1
+|align="left"|La faille de Cascadia
+|12 août 2017
+|align="left"|Voir le sol vibrer, se déplacer, sans cesse… Cela ne fait qu'un demi siècle que la théorie de la tectonique des plaques a été adoptée. C'était au milieu des années 1960, juste après le premier voyage d'un homme dans l'espace, un peu avant qu'un premier homme pose un pied sur la Lune…
+|-
+|360
+|220
+|R1
+|align="left"|Le mystérieux tsunami de 1700 au Japon
+|19 août 2017
+|align="left"|« La haute marée des eaux du soir » ou le mystérieux tsunami de 1700 au Japon. Mer, haïkus, peinture, écrits, sciences… l'envoûtant récit de Jean-Claude Ameisen.
+|-
+|361
+|221
+|R1
+|align="left"|Des récits et des masques
+|26 août 2017
+|align="left"|"Un mot est mort quand il est dit, Disent certains – Je dis qu’il commence juste à vivre Ce jour-là" '''Emily Dickinson''', ''A word is dead''.
+|-
+|362
+|251
+|
+|align="left"|Clotho et le fil de la vie
+|2 sept 2017
+|align="left"|
+|-
+|363
+|252
+|
+|align="left"|Un long voyage à travers le temps
+|9 sept 2017
+|align="left"|"Ta force est d’être frêle et pure infiniment ; De traverser, le cœur en feu, tous chemins sombres, Et d’avoir conservé, malgré la brume ou l’ombre, Tous les rayons de l’aube en ton âme d’enfant." '''Émile Verhaeren''', ''Les Heures d’après-midi''.
+|-
+|364
+|253
+|
+|align="left"|Le navire de Thésée
+|16 sept 2017
+|align="left"|"Le navire sur lequel Thésée s’était embarqué […] avait trente rames : les Athéniens […] en enlevaient les planches quand elles étaient trop vieilles, et les remplaçaient par d’autres […]. Aussi, quand les philosophes débattent […], ils voient dans ce navire un exemple controversé : les uns soutiennent qu’il reste toujours le même, les autres disent qu’il n’est plus le même. '''Plutarque''' ''Thésée-Romulus. In : Vie Parallèles''.
+|-
+|365
+|254
+|
+|align="left"|Comme un fleuve qui remonterait son cours (1)
+|23 sept 2017
+|align="left"|"Je me suis alors souvenu du fleuve Alphée, sortant de la mer et redevenant rivière. Un vieux mythe grec le rapporte en quelques lignes." '''Roger Caillois''' ''Le Fleuve Alphée''.
+|-
+|366
+|255
+|
+|align="left"|Comme un fleuve qui remonterait son cours (2)
+|30 sept 2017
+|align="left"|"Une fois monté dans sa chambre, il aperçut son reflet dans le miroir. […] « Grands dieux ! » dit-il à voix haute. Le processus continuait. Aucun doute n’était permis – il avait maintenant l’apparence d’un homme de 30 ans. Au lieu d’être ravi, il se sentit mal à l’aise – il rajeunissait." '''F. Scott Fitzgerald''' ''L’étrange histoire de Benjamin Button''.
+|-
+|367
+|256
+|
+|align="left"|Qui veut voyager loin ménage sa monture
+|7 oct 2017
+|align="left"|"Monsieur Perrin Dandin, Tout franc, vous vous levez tous les jours trop matin. Qui veut voyager loin ménage sa monture ; Buvez, mangez, dormez, et faisons feu qui dure." '''Racine''' ''Les Plaideurs, 1668''.
+|-
+|368
+|257
+|
+|align="left"|Les horloges circadiennes
+|14 oct 2017
+|align="left"|"Vienne la nuit sonne l'heure_ Les jours s'en vont je demeure" '''Apollinaire''' ''Le Pont Mirabeau''.
+|-
+|369
+|258
+|
+|align="left"|À la recherche de la Longitude
+|21 oct 2017
+|align="left"|"Toute traversée, aujourd’hui, était dangereuse, parce que les rares cartes de navigation existantes étaient vagues et incertaines au point d’être inutiles." '''James Clavell''' ''Shogun''.
+|-
+|370
+|191
+|R1
+|align="left"|La tectonique des plaques
+|28 oct 2017
+|align="left"|"Un grave tremblement de terre détruit en un instant nos certitudes anciennes : la Terre, le symbole même de la solidité, a bougé sous nos pieds comme une fine croûte au-dessus d’un liquide.
+Une seconde a fait dans l’esprit surgir une étrange idée d’insécurité que des heures de réflexion n’auraient pas fait naître." Charles Darwin. Journal du voyage du Beagle.
+|-
+|371
+|259
+|
+|align="left"|Au rythme des marées et des phases de la lune
+|4 nov 2017
+|align="left"|"Les oursins pondent plutôt aux périodes de pleine lune, parce que les nuits sont plus chaudes, à cause de la lumière de la lune. Car, étant très frileux du fait qu’ils n’ont pas de sang, ils ont besoin de chaleur." '''Aristote''' ''Les Parties des Animaux''.
+|-
+|372
+|099
+|R2
+|align="left"|Cette étoffe sur laquelle naissent les rêves (8)
+|11 nov 2017
+|align="left"|"Comprendre ce qu’est la conscience onirique est la dernière frontière de la neurobiologie – plus loin encore, sans doute, que la compréhension de la conscience éveillée." '''Michel Jouvet''' ''Le sommeil et le rêve''.
+|-
+|373
+|260
+|
+|align="left"|À la recherche des origines du sommeil
+|18 nov 2017
+|align="left"|"Dormir, c’est se distraire du monde." '''Jorge Luis Borges''' ''Funes ou la mémoire''.
+|-
+|374
+|261
+|
+|align="left"|À la recherche des mystères du sommeil (1)
+|25 nov 2017
+|align="left"|"Nous ne dormons pas pour ce qui continue à nous intéresser." '''Henri Bergson''' ''Le rêve''.
+|-
+|375
+|262
+|
+|align="left"|À la recherche des mystères du sommeil (2)
+|2 déc 2017
+|align="left"|"Chacun sait que le sommeil est important, mais la fonction du sommeil semble être aussi insaisissable que celle du Phénix mythologique." '''Chiara Cirelli et Giulio Tononi''' ''Is sleep essential''.
+|-
+|376
+|263
+|
+|align="left"|À la recherche des mystères du sommeil (3)
+|9 déc 2017
+|align="left"|
+|-
+|377
+|264
+|
+|align="left"|Explorer
+|16 déc 2017
+|align="left"|"Au-dessus d’eux, les couleurs tournoient, comme la brume sur la mer. François ne bouge pas, ne pose plus aucune question. Il ne quitte pas le ciel des yeux." '''Helen Sedgwick''', ''The Comet seekers''
+|-
+|378
+|206
+|R1
+|align="left"|Les forges du ciel (1)
+|23 déc 2017
+|align="left"|"Le ciel ne nous est pas étranger. Nous lui devons l’existence" '''Hubert Reeves''', ''Poussières d’étoiles''
+"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|379
+|207
+|R1
+|align="left"|Les forges du ciel (2)
+|30 déc 2017
+|align="left"|"Ici, sur le bord de ce que nous savons, au contact avec l’océan de tout ce que nous ne savons pas, brillent le mystère du monde, la beauté du monde. Une beauté à couper le souffle." '''Carlo Rovelli''', ''Sept brèves leçons de physique''
+|-
+|380
+|146
+|R2
+|align="left"|La glace et le feu
+|6 janv 2018
+|align="left"|
+|-
+|381
+|265
+|
+|align="left"|Éclats de passé : le Croissant Fertile
+|13 janv 2018
+|align="left"|
+|-
+|382
+|266
+|
+|align="left"|Éclats de passé : la révolution Néolithique
+|20 janv 2018
+|align="left"|
+|-
+|383
+|267
+|
+|align="left"|Éclats de passé : À la recherche des origines des inégalités (1)
+|27 janv 2018
+|align="left"|"L’histoire n’est pas seulement ce dont nous héritons, rassurante, sans danger, et après-coup. C’est aussi ce que nous sommes nous-mêmes obligés d’endurer. […] L’histoire, nous y nageons, nous sommes à l’intérieur." '''Cynthia Ozick''', ''Quarrel and Quandary''
+|-
+|384
+|268
+|
+|align="left"|Éclats de passé : À la recherche des origines des inégalités (2)
+|3 févr 2018
+|align="left"|
+|-
+|385
+|269
+|
+|align="left"|Éclats de passé : À la recherche des origines des inégalités (3)
+|10 févr 2018
+|align="left"|
+|-
+|386
+|214
+|R1
+|align="left"|Une ancienne alliance entre un oiseau sauvage et les humains
+|17 févr 2018
+|align="left"|"La référence la plus ancienne que j’ai trouvée concernant les Grands Indicateurs et leur comportement qui consiste à guider des hommes jusqu’aux nids d’abeilles est dans un livre intitulé Ethiopie Orientale, écrit par Joao dos Santos, un missionnaire Portugais à Sofala, […] Il semble que l’oiseau avait attiré l’attention du bon père parce qu’il l’avait vu entrer par la fenêtre de l’église de sa mission, et se nourrir de petits morceaux de cire qu’il prélevait sur les cierges qui étaient sur l’autel."  '''Herbert Friedmann''', ''The Honey-guides''
+|-
+|387
+|270
+|
+|align="left"|Éclats de passé : À la découverte de l’empire Khmer (1)
+|24 févr 2018
+|align="left"|"Alors revient chanter en moi la phrase enfantine de jadis : « Au fond des forêts du Siam, j’ai vu l’étoile du soir se lever sur les grandes Ruines d’Angkor. »" '''Pierre Loti''', ''Un Pèlerin d’Angkor''
+|-
+|388
+|271
+|
+|align="left"|Éclats de passé : À la découverte de l’empire Khmer (2)
+|3 mars 2018
+|align="left"|"Si une nuit le génie n’apparaît pas, c’est que le moment de la mort du roi barbare est venu. Si le Roi barbare manque une seule nuit à venir, il arrive sûrement un malheur." '''Paul Pelliot''', ''Mémoires sur les coutumes du Cambodge de Tcheou Ta-Kouan''
+|-
+|389
+|272
+|
+|align="left"|Éclats de passé : avec Homère pour guide
+|10 mars 2018
+|align="left"|
+|-
+|390
+|273
+|
+|align="left"|Éclats de passé : Les Aventuriers de l'Archéologie
+|17 mars 2018
+|align="left"|
+|-
+|391
+|274
+|
+|align="left"|Éclats de passé : L’Agate du combat
+|24 mars 2018
+|align="left"|
+|-
+|392
+|158
+|R1
+|align="left"|Les survivants des anciens mondes (2)
+|31 mars 2018
+|align="left"|"« L’Espoir » est la chose avec des plumes – Qui est perchée dans l’âme – Et qui chante la mélodie sans les paroles – Et jamais ne s’arrête – jamais – Et qui est la plus douce – quand on l’entend – dans la Tempête –" '''Emily Dickinson''', ''« Hope » is the thing with feathers''
+|-
+|393
+|275
+|
+|align="left"|Éclats de passé : l’archéologie et l’ADN ancien
+|7 avr 2018
+|align="left"|Terre […] _ Burinée d’empreintes _ Creusée d’ombres _ Chargée de mémoires _ Entre quelles résilles adverses _ Notre souffle s’est-il glissé ? '''Andrée Chedid''', ''Par-delà les mots''
+|-
+|394
+|276
+|
+|align="left"|Éclats de passé : à la rencontre des Femmes et des Hommes de Néandertal
+|14 avr 2018
+|align="left"|
+|-
+|395
+|277
+|
+|align="left"|Éclats de passé : à la rencontre des premiers Hommes et Femmes Modernes
+|21 avr 2018
+|align="left"|
+|-
+|396
+|278
+|
+|align="left"|S’envoler vers le passé
+|28 avr 2018
+|align="left"|
+|-
+|397
+|279
+|
+|align="left"|Éclats de Passé : Les livres peints d’Amérique Centrale
+|5 mai 2018
+|align="left"|
+|-
+|398
+|280
+|
+|align="left"|Éclats de Passé : À la rencontre de la culture Maya
+|12 mai 2018
+|align="left"|
+|-
+|399
+|237
+|R1
+|align="left"|Le temps du rêve
+|19 mai 2018
+|align="left"|"Chaque ancêtre totémique, en voyageant à travers le pays, avait, disait-on, semé une piste de mots et de notes de musiques au long de la ligne de ses [[empreinte de pas|empreintes de pas]]. Les Pistes du Rêve couvraient partout le pays, comme des voies de communication entre les nations les plus distantes. Et, en théorie du moins, la totalité de l’Australie pouvait être lue comme une partition musicale" '''Bruce Chatwin''', ''The Songlines (Le chant des pistes)''.
+|-
+|400
+|281
+|
+|align="left"|Huey Cocolitzli – le grand désastre
+|26 mai 2018
+|align="left"|
+|-
+|401
+|282
+|
+|align="left"|Le plomb et l'argent (1)
+|2 juin 2018
+|align="left"|
+|-
+|402
+|283
+|
+|align="left"|Le plomb et l'argent (2)
+|9 juin 2018
+|align="left"|
+|-
+|403
+|284
+|
+|align="left"|Le plomb et l'argent (3)
+|16 juin 2018
+|align="left"|
+|-
+|404
+|285
+|
+|align="left"|Le plomb et l'argent (4)
+|23 juin 2018
+|align="left"|
+|-
+|405
+|211
+|R1
+|align="left"|Dans les ombres rêveuses
+|30 juin 2018
+|align="left"|"Ô Mémoire! Toi, monde à mi-chemin, entre la terre et le paradis, où les choses délabrées et les personnes aimées, perdues, dans les ombres rêveuses se lèvent." '''Abraham Lincoln''', ''My Childhood Home I see again''.
+|-
+|406
+|234
+|R1
+|align="left"|La promesse de l'aube
+|7 juil 2018
+|align="left"|"C'est un amour dont je n'avais littéralement pas idée" '''Marie Darrieussecq'''.
+|-
+|407
+|222
+|R1
+|align="left"|Lire les corps
+|14 juil 2018
+|align="left"|
+|-
+|408
+|223
+|R1
+|align="left"|S'imaginer à la place de l'autre
+|21 juil 2018
+|align="left"|
+|-
+|409
+|224
+|R1
+|align="left"|Entre chien et loup
+|28 juil 2018
+|align="left"|
+|-
+|410
+|225
+|R1
+|align="left"|Ressentir et comprendre
+|4 août 2018
+|align="left"|
+|-
+|411
+|226
+|R1
+|align="left"|Ressentir, innover et transmettre
+|11 août 2018
+|align="left"|
+|-
+|412
+|117
+|R2
+|align="left"|Le partage des émotions
+|18 août 2018
+|align="left"|Nous pleurons avec ceux qui pleurent, rions avec ceux qui rient, et nous souffrons avec ceux souffrent. Ces mouvements de l’âme, nous les comprenons à partir de la vue des mouvements du corps. 
+|-
+|413
+|250
+|R1
+|align="left"|Visages
+|25 août 2018
+|align="left"|
+|-
+|414
+|286
+|
+|align="left"|Aux origines du Pain
+|{{1er}} sept 2018
+|align="left"|"Ils sont là, tous les deux, penchés sur ce travail comme sur quelque chose de vivant. Ça a besoin de soin, ce qu'ils font. Ça ne s'élève pas tout seul. C'est comme un enfant qui demande de la peine. Et qu'on aime. Il faut plonger ses bras dans la pâte, relever, puis laisser retomber, et chaque fois faire comme si on pliait des draps fraîchement lavés, encore un peu humides, et lourds. La huche craque, geint, sonne quand la pâte tombe et se plie." ''Jean Giono'', '''Les Vraies Richesses''''
+|-
+|415
+|287
+|
+|align="left"|À travers le désert
+|8 sept 2018
+|align="left"|
+|-
+|416
+|288
+|
+|align="left"|Le cycéon
+|15 sept 2018
+|align="left"|
+|-
+|417
+|289
+|
+|align="left"|La bière de Sumer
+|22 sept 2018
+|align="left"|
+|-
+|418
+|290
+|
+|align="left"|Le Shedeh nefer nefer de Toutânkhamon
+|29 sept 2018
+|align="left"|
+|-
+|419
+|291
+|
+|align="left"|Dans une villa d'Atella
+|6 oct 2018
+|align="left"|
+|-
+|420
+|292
+|
+|align="left"|Les splendeurs de Jiahu
+|13 oct 2018
+|align="left"|
+|-
+|421
+|293
+|
+|align="left"|De Zhoukoudian à Mijiaya
+|20 oct 2018
+|align="left"|
+|-
+|422
+|272
+|R1
+|align="left"|Éclats de passé : avec Homère pour guide
+|27 oct 2018
+|align="left"|
+|-
+|423
+|294
+|
+|align="left"|Festins funéraires
+|3 nov 2018
+|align="left"|
+|-
+|424
+|295
+|
+|align="left"|Aux origines de la bière
+|10 nov 2018
+|align="left"|
+|-
+|425
+|296
+|
+|align="left"|Aux origines du chocolat (1)
+|17 nov 2018
+|align="left"|
+|-
+|426
+|297
+|
+|align="left"|Aux origines du chocolat (2)
+|24 nov 2018
+|align="left"|
+|-
+|427
+|298
+|
+|align="left"|Aux origines du chocolat (3)
+|{{1er}} déc 2018
+|align="left"|Véritable remède pour la santé et générateur de plaisirs, on buvait aussi du chocolat en France à l'époque de Louis XIV. Les sources les plus fiables suggèrent que le chocolat avait été introduit par des moines espagnols et que le premier consommateur a été le frère aîné du cardinal de Richelieu.
+|-
+|428
+|299
+|
+|align="left"|Aux origines du chocolat (4)
+|8 déc 2018
+|align="left"|
+|-
+|429
+|300
+|
+|align="left"|Aux origines du chocolat (5)
+|15 déc 2018
+|align="left"|
+|-
+|430
+|210
+|R1
+|align="left"|Voyage (2)
+|22 déc 2018
+|align="left"|
+|-
+|431
+|182
+|R1
+|align="left"|Voyage (3)
+|29 déc 2018
+|align="left"|
+|-
+|432
+|301
+|
+|align="left"|Aux origines du chocolat (6)
+|5 jan 2019
+|align="left"|
+|-
+|433
+|302
+|
+|align="left"|Aux origines du chocolat (7)
+|12 jan 2019
+|align="left"|
+|-
+|434
+|303
+|
+|align="left"|Aux origines du chocolat (8)
+|19 jan 2019
+|align="left"|
+|
+|-
+|435
+|304
+|
+|align="left"|Une année dans le monde
+|26 janv 2019
+|align="left"|
+
+|-
+|436
+|305
+|
+|align="left"|Les chants du monde
+|2 févr 2019
+|align="left"|
+
+|-
+|437
+|306
+|
+|align="left"|L'Apiculteur aveugle
+|9 févr 2019
+|align="left"|
+
+|-
+|438
+|307
+|
+|align="left"|Les chants des abeilles
+|16 févr 2019
+|align="left"|
+
+|-
+|439
+|308
+|
+|align="left"|Dame bourdon et le trèfle des prés
+|23 févr 2019
+|align="left"|
+
+|-
+|440
+|258
+|R1
+|align="left"|À la recherche de la longitude
+|2 mars 2019
+|align="left"|"Toute traversée, aujourd’hui, était dangereuse, parce que les rares cartes de navigation existantes étaient vagues et incertaines au point d’être inutiles." '''James Clavell''' ''Shogun''.
+
+|-
+|441
+|309
+|
+|align="left"|Un naturaliste au Nicaragua
+|9 mars 2019
+|align="left"|
+
+|-
+|442
+|310
+|
+|align="left"|Deux naturalistes en Amazonie
+|16 mars 2019
+|align="left"|
+
+|-
+|443
+|311
+|
+|align="left"|Mimétisme et papillons (1)
+|23 mars 2019
+|align="left"|
+
+|-
+|444
+|312
+|
+|align="left"|Mimétisme et papillons (2)
+|30 mars 2019
+|align="left"|
+
+|-
+|445
+|313
+|
+|align="left"|Le monarque, la reine et le vice-roi
+|6 avr 2019
+|align="left"|
+
+|-
+|446
+|314
+|
+|align="left"|Papillons
+|13 avr 2019
+|align="left"|
+
+|-
+|447
+|145
+|R1
+|align="left"|Le sentiment d'injustice
+|20 avr 2019
+|align="left"|Partir à la découverte du monde des autres. Ressentir du bonheur à la vue du bonheur des autres. Pouvoir transformer notre empathie en sympathie, en une capacité d'apporter de l'aide aux autres. Donner sans attendre une contrepartie. Le don est l'un des fondements de la vie des sociétés humaines…
+
+|-
+|448
+|315
+|
+|align="left"|Les chants des grenouilles
+|27 avr 2019
+|align="left"|
+
+|-
+|449
+|316
+|
+|align="left"|Lueurs dans la nuit (1)
+|4 mai 2019
+|align="left"|
+
+|-
+|450
+|317
+|
+|align="left"|À la rencontre des premiers Alchimistes
+|11 mai 2019
+|align="left"|
+
+|-
+|451
+|318
+|
+|align="left"|Lueurs dans la nuit (2)
+|18 mai 2019
+|align="left"|
+
+|-
+|452
+|234
+|R2
+|align="left"|La promesse de l'aube
+|25 mai 2019
+|align="left"|"C'est un amour dont je n'avais littéralement pas idée" '''Marie Darrieussecq'''.
+
+|-
+|453
+|319
+|
+|align="left"|Lueurs dans la nuit (3)
+|{{1er}} juin 2019
+|align="left"|
+
+|-
+|454
+|320
+|
+|align="left"|À la découverte de la lumière invisible (1)
+|8 juin 2019
+|align="left"|
+
+|-
+|455
+|321
+|
+|align="left"|À la découverte de la lumière invisible (2)
+|15 juin 2019
+|align="left"|
+
+|-
+|456
+|264
+|R1
+|align="left"|Explorer
+|22 juin 2019
+|align="left"|"Au-dessus d’eux, les couleurs tournoient, comme la brume sur la mer. François ne bouge pas, ne pose plus aucune question. Il ne quitte pas le ciel des yeux." '''Helen Sedgwick''', ''The Comet seekers''
+
+|-
+|457
+|272
+|R2
+|align="left"|Éclats de passé : avec Homère pour guide
+|29 juin 2019
+|align="left"|
+
+|-
+|458
+|258
+|R2
+|align="left"|À la recherche de la Longitude
+|30 juin 2019
+|align="left"|"Apercevoir un navire, perdu dans l'océan, dans la tempête, il y a longtemps. C'est le printemps de l'an 1600, au large des côtes du Japon…"
+
+|-
+|459
+|306
+|R1
+|align="left"|L'Apiculteur aveugle
+|5 juil 2019
+|align="left"|
+
+|-
+|460
+|307
+|R1
+|align="left"|Les chants des abeilles
+|6 juil 2019
+|align="left"|
+
+|-
+|461
+|308
+|R1
+|align="left"|Dame bourdon et le trèfle des prés
+|7 juil 2019
+|align="left"|
+
+|-
+|462
+|046
+|R5
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|12 juil 2019
+|align="left"|"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." Pascal Quignard. Les ombres errantes
+
+|-
+|463
+|206
+|R2
+|align="left"|Les Forges du ciel (1)
+|13 juil 2019
+|align="left"|"Le ciel ne nous est pas étranger. Nous lui devons l’existence" Hubert Reeves, Poussières d’étoiles.
+"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." Pascal Quignard, Les ombres errantes.
+
+|-
+|464
+|207
+|R2
+|align="left"|Les Forges du ciel (2)
+|14 juil 2019
+|align="left"|'"Ici, sur le bord de ce que nous savons, au contact avec l’océan de tout ce que nous ne savons pas, brillent le mystère du monde, la beauté du monde. Une beauté à couper le souffle." '''Carlo Rovelli''', ''Sept brèves leçons de physique''
+
+|-
+|465
+|229
+|R2
+|align="left"|Dans les abysses
+|19 juil 2019
+|align="left"|
+
+|-
+|466
+|230
+|R2
+|align="left"|Naissance d'un mythe
+|20 juil 2019
+|align="left"|
+
+|-
+|467
+|231
+|R1
+|align="left"|Apprendre avant de naître
+|21 juil 2019
+|align="left"|
+
+|-
+|468
+|232
+|R1
+|align="left"|Faire apparaître les couleurs du monde sans être capable de les voir?
+|26 juil 2019
+|align="left"|
+
+|-
+|469
+|233
+|R1
+|align="left"|Éclore au monde
+|27 juil 2019
+|align="left"|"Percevoir les battements du monde. Tenter de distinguer par de-là le silence et le bruit une splendeur d'avant les mots dont le langage nous aurait éloigné : la splendeur du vivant."
+
+|-
+|470
+|154
+|R2
+|align="left"|Des chants appris avant de naître
+|28 juil 2019
+|align="left"|"Chez les canards sur la rive de l’Yonne […], les œufs crient trois jours avant l’éclosion. La canne qui les couve dialogue avec ces cris obscurs, de faible intensité, sans visage, qui montent au-dessous d’elle. Étrange appel à un corps autre jamais vu, à un soleil jamais vu." '''Pascal Quignard''', ''Leçons de solfège et de piano''.
+
+|-
+|471
+|286
+|R1
+|align="left"|Aux origines du pain
+|2 août 2019
+|align="left"|À travers les études et les recherches sur son invention, sa création remontant au paléolithique supérieur, les chercheurs racontent à travers le pain une part de l'histoire humaine.
+
+|-
+|472
+|128
+|R1
+|align="left"|À la recherche des traces des musiques de la préhistoire
+|3 août 2019
+|align="left"|"Les traces, par définition, ne sont jamais visibles en tant que traces. Elles ne sont visibles que si elles sont cherchées comme des marques de ce qui n’est plus là." '''Pascal Quignard''', ''Sur le Jadis''.
+
+|-
+|473
+|215
+|R2
+|align="left"|À la rencontre de la Pensée chinoise (1)
+|4 août 2019
+|align="left"|Plongeons notre regard dans le passé et remontons le temps à contre-courant. Parcourons des âges depuis longtemps révolus, entrevoyons des mondes disparus qui nous ont donné naissance et dont nous découvrons des vestiges…
+
+|-
+|474
+|216
+|R2
+|align="left"|À la rencontre de la Pensée chinoise (2)
+|9 août 2019
+|align="left"|L'un des grands textes du taoïsme, "le Tchouang-tseu", rédigé sous la dynastie des Han, relate l'émergence du monde : "le ciel et la terre n'étaient pas encore formés, tout était vaste et immense, caverneux et informe". Mais il y a tant d'autres récits du commencement d'origine chinoise… Découvrons-les !
+
+|-
+|475
+|217
+|R2
+|align="left"|Déluges
+|10 août 2019
+|align="left"|Dans chaque région de chaque continent où nos ancêtres ont posé les pieds, il y a des récits qui disent comment est née l'humanité, ces récits rapportent aussi la survenue d'un déluge, d'un cataclysme, d'une terrifiante destruction, d'une dissolution du monde, et un recommencement…
+
+|-
+|476
+|218
+|R2
+|align="left"|Le Passage du Nord-Ouest
+|11 août 2019
+|align="left"|Le sol est morcelé en une dizaine de grandes plaques qui s'éloignent des dorsales océanes qui leur donnent naissance. Les plaques s'éloignent d'elles et en s'éloignant se rapprochent d'autres plaques et forment les volcans, des montages, des zones de subduction, produisent des séismes et tant d'autres phénomènes…
+
+|-
+|477
+|219
+|R2
+|align="left"|La faille de Cascadia
+|16 août 2019
+|align="left"|Voir le sol vibrer, se déplacer, sans cesse… Cela ne fait qu'un demi siècle que la théorie de la tectonique des plaques a été adoptée. C'était au milieu des années 1960, juste après le premier voyage d'un homme dans l'espace, un peu avant qu'un premier homme pose un pied sur la Lune…
+
+|-
+|478
+|220
+|R2
+|align="left"|Le mystérieux tsunami de 1700 au Japon
+|17 août 2019
+|align="left"|« La haute marée des eaux du soir » ou le mystérieux tsunami de 1700 au Japon. Mer, haïkus, peinture, écrits, sciences… l'envoûtant récit de Jean-Claude Ameisen.
+
+|-
+|479
+|221
+|R2
+|align="left"|Des récits et des masques
+|18 août 2019
+|align="left"|"Tant d'autres avant nous ont marché sur le sol où nous marchons aujourd'hui, ont chanté, ont dansé, ont rêvé, ont parlé, n'ont cessé de puiser dans les mots le mystère de dire le monde et de se dire "je peux me consumer de tout l'enfer du monde, jamais je ne perdrai cet émerveillement du langage."  '''Aragon'''
+
+|-
+|480
+|203
+|R1
+|align="left"|À la découverte de la radioactivité
+|23 août 2019
+|align="left"|
+
+|-
+|481
+|204
+|R1
+|align="left"|Marie Curie
+|24 août 2019
+|align="left"|
+
+|-
+|482
+|205
+|R1
+|align="left"|Pierre et Marie Curie
+|25 août 2019
+|align="left"|
+
+|-
+|483
+|085
+|R2
+|align="left"|Le lien qui nous rattache aux autres (2)
+|31 août 2019
+|align="left"|
+
+|-
+|484
+|322
+|
+|align="left"|Le lièvre et le crapaud
+|7 sept 2019
+|align="left"|
+
+|-
+|485
+|323
+|
+|align="left"|Un lapin sur la lune
+|14 sept 2019
+|align="left"|La Lune est chantée par les poètes. Elle est symbole d'impermanence et d'illusion, de lumière et de musique.
+
+|-
+|486
+|324
+|
+|align="left"|Le chœur des grenouilles
+|21 sept 2019
+|align="left"|
+
+|-
+|487
+|325
+|
+|align="left"|Il était une fois…
+|28 sept 2019
+|align="left"|
+
+|-
+|488
+|326
+|
+|align="left"|Des appels dans la nuit (1)
+|5 oct 2019
+|align="left"|
+
+|-
+|489
+|327
+|
+|align="left"|Des appels dans la nuit (2)
+|12 oct 2019
+|align="left"|
+
+|-
+|490
+|328
+|
+|align="left"|Les dangers de la séduction
+|19 oct 2019
+|align="left"|Comme l'avait proposé Darwin, les deux moteurs essentiels de l'évolution qu'il avait identifiés dans les espèces à reproduction sexuée, la sélection naturelle et la sélection sexuelle, ont souvent des effets contradictoires.
+
+|-
+|491
+|063
+|R2
+|align="left"|Les battements du temps (24) - Éclats de mondes disparus (1)
+|26 oct 2019
+|align="left"|"Les traces, par définition, ne sont donc jamais visibles en tant que traces. Elles ne sont visibles que si elles sont cherchées comme des marques de ce qui n’est plus là […] Seule leur attente les découvre. […] Le visible ne suffit pas pour comprendre ce qui est vu. Le visible ne s’interprète qu’en référence à l’invisible"
+
+|-
+|492
+|325
+|R1
+|align="left"|Il était une fois…
+|2 nov 2019
+|align="left"|
+
+|-
+|493
+|329
+|
+|align="left"|À la recherche de Terra Australis Incognita
+|9 nov 2019
+|align="left"|
+
+|-
+|494
+|330
+|
+|align="left"|Dialogues entre les abeilles et les fleurs
+|16 nov 2019
+|align="left"|"Cela fait longtemps, très longtemps que les abeilles ont commencé à nouer leur extraordinaire alliance avec les plantes à fleurs. C'était il y a 140 à 120 millions d'années alors que les dinosaures régnaient encore sur Terre…"
+
+|-
+|495
+|331
+|
+|align="left"|L'intelligence des abeilles
+|23 nov 2019
+|align="left"|
+
+|-
+|496
+|296
+|R1
+|align="left"|Aux origines du chocolat (1)
+|14 déc 2019
+|align="left"|
+
+|-
+|497
+|297
+|R1
+|align="left"|Aux origines du chocolat (2)
+|28 déc 2019
+|align="left"|
+
+|-
+|498
+|298
+|R1
+|align="left"|Aux origines du chocolat (3)
+|4 janv 2020
+|align="left"|Véritable remède pour la santé et générateur de plaisirs, on buvait aussi du chocolat en France à l'époque de Louis XIV. Les sources les plus fiables suggèrent que le chocolat avait été introduit par des moines espagnols et que le premier consommateur a été le frère aîné du cardinal de Richelieu.
+
+|-
+|499
+|332
+|
+|align="left"|À la découverte des cultures dans le monde animal
+|11 janv 2020
+|align="left"|
+
+|-
+|500
+|333
+|
+|align="left"|À la poursuite du printemps
+|18 janv 2020
+|align="left"|
+
+|-
+|501
+|334
+|
+|align="left"|Les lions de Serengeti
+|25 janv 2020
+|align="left"|
+
+|-
+|502
+|335
+|
+|align="left"|Entre deux mondes
+|8 févr 2020
+|align="left"|
+
+|-
+|503
+|336
+|
+|align="left"|Là où l’eau et le ciel se rejoignent.
+|15 févr 2020
+|align="left"|
+
+|-
+|504
+|299
+|R1
+|align="left"|Aux origines du chocolat (4)
+|22 févr 2020
+|align="left"|
+
+|-
+|505
+|337
+|
+|align="left"|Entre le ciel et l'eau (2)
+|29 févr 2020
+|align="left"|
+
+|-
+|506
+|338
+|
+|align="left"|Entre le sable et l'eau
+|7 mars 2020
+|align="left"|
+
+|-
+|507
+|339
+|
+|align="left"|La Baie d’Aboukir 
+|14 mars 2020
+|align="left"|
+
+|-
+|508
+|300
+|R1
+|align="left"|Aux origines du chocolat (5)
+|21 mars 2020
+|align="left"|
+
+|-
+|509
+|301
+|R1
+|align="left"|Aux origines du chocolat (6)
+|28 mars 2020
+|align="left"|
+
+|-
+|510
+|302
+|R1
+|align="left"|Aux origines du chocolat (7)
+|4 avr 2020
+|align="left"|
+
+|-
+|511
+|303
+|R1
+|align="left"|Aux origines du chocolat (8)
+|11 avr 2020
+|align="left"|
+
+|-
+|512
+|214
+|R2
+|align="left"|Une ancienne alliance entre un oiseau sauvage et les humains
+|18 avr 2020
+|align="left"|"La référence la plus ancienne que j’ai trouvée concernant les Grands Indicateurs et leur comportement qui consiste à guider des hommes jusqu’aux nids d’abeilles est dans un livre intitulé Ethiopie Orientale, écrit par Joao dos Santos, un missionnaire Portugais à Sofala, […] Il semble que l’oiseau avait attiré l’attention du bon père parce qu’il l’avait vu entrer par la fenêtre de l’église de sa mission, et se nourrir de petits morceaux de cire qu’il prélevait sur les cierges qui étaient sur l’autel."  '''Herbert Friedmann''', ''The Honey-guides''
+
+|-
+|513
+|305
+|R1
+|align="left"|Les chants du monde
+|25 avr 2020
+|align="left"|
+
+|-
+|514
+|306
+|R2
+|align="left"|L'apiculteur aveugle
+|2 mai 2020
+|align="left"|
+
+|-
+|515
+|308
+|R2
+|align="left"|Dame bourdon et le trèfle des prés
+|9 mai 2020
+|align="left"|
+
+|-
+|516
+|330
+|R1
+|align="left"|Dialogues entre les abeilles et les fleurs
+|16 mai 2020
+|align="left"|"Cela fait longtemps, très longtemps que les abeilles ont commencé à nouer leur extraordinaire alliance avec les plantes à fleurs. C'était il y a 140 à 120 millions d'années alors que les dinosaures régnaient encore sur Terre…"
+
+|-
+|517
+|039
+|R2
+|align="left"|Renaissance
+|23 mai 2020
+|align="left"|"C’est le mot si étrange de l’Empereur Claude : 'les choses les plus anciennes ont été extrêmement neuves'." '''Pascal Quignard''', ''Les ombres errantes''
+
+|-
+|518
+|040
+|R2
+|align="left"|La tectonique des plaques
+|30 mai 2020
+|align="left"|"Un grave tremblement de terre détruit en un instant nos certitudes anciennes : la Terre, le symbole même de la solidité, a bougé sous nos pieds comme une fine croûte au-dessus d’un liquide. Une seconde a fait dans l’esprit surgir une étrange idée d’insécurité que des heures de réflexion n’auraient pas fait naître." '''Charles Darwin''', ''Journal du voyage du Beagle''
+
+|-
+|519
+|094
+|R2
+|align="left"|L'illusion de la fin de l'histoire
+|6 juin 2020
+|align="left"|"Notre imagination déploie sans cesse devant nous l’image toujours renouvelée de ce qui va pouvoir arriver, de ce qui est possible. Nous ne pouvons penser à nous sans un instant suivant, mais nous ne pouvons savoir ce que sera cet instant. Ainsi, nous ne pouvons connaître ce qui nous intéresse le plus au monde, ce qui se passera demain." '''François Jacob''', ''Le jeu des possibles''.
+
+|-
+|520
+|154
+|R3
+|align="left"|Des chants appris avant de naître
+|13 juin 2020
+|align="left"|"Chez les canards sur la rive de l’Yonne […], les œufs crient trois jours avant l’éclosion. La canne qui les couve dialogue avec ces cris obscurs, de faible intensité, sans visage, qui montent au-dessous d’elle. Étrange appel à un corps autre jamais vu, à un soleil jamais vu." '''Pascal Quignard''', ''Leçons de solfège et de piano''.
+
+|-
+|521
+|099
+|R3
+|align="left"|Cette étoffe sur laquelle naissent les rêves (8)
+|20 juin 2020
+|align="left"|"Comprendre ce qu’est la conscience onirique est la dernière frontière de la neurobiologie – plus loin encore, sans doute, que la compréhension de la conscience éveillée." '''Michel Jouvet''', ''Le sommeil et le rêve''.
+|-
+|522
+|063
+|R3
+|align="left"|Les battements du temps (24) - Éclats de mondes disparus (1)
+|29 août 2020
+|align="left"|"Les traces, par définition, ne sont donc jamais visibles en tant que traces. Elles ne sont visibles que si elles sont cherchées comme des marques de ce qui n’est plus là. […] Seule leur attente les découvre. […] Le visible ne suffit pas pour comprendre ce qui est vu. Le visible ne s’interprète qu’en référence à l’invisible." '''Pascal Quignard''', ''Sur le Jadis''.
+|-
+|523
+|237
+|R2
+|align="left"|Le temps du rêve
+|5 sept 2020
+|align="left"|"Chaque ancêtre totémique, en voyageant à travers le pays, avait, disait-on, semé une piste de mots et de notes de musiques au long de la ligne de ses empreintes de pas. Les Pistes du Rêve couvraient partout le pays, comme des voies de communication entre les nations les plus distantes. Et, en théorie du moins, la totalité de l’Australie pouvait être lue comme une partition musicale" '''Bruce Chatwin''', ''The Songlines (Le chant des pistes)''.
+|-
+|524
+|206
+|R3
+|align="left"|Les forges du ciel (1)
+|12 sept 2020
+|align="left"|"Le ciel ne nous est pas étranger. Nous lui devons l’existence" '''Hubert Reeves''', ''Poussières d’étoiles''
+"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|525
+|207
+|R3
+|align="left"|Les forges du ciel (2)
+|19 sept 2020
+|align="left"|"Ici, sur le bord de ce que nous savons, au contact avec l’océan de tout ce que nous ne savons pas, brillent le mystère du monde, la beauté du monde. Une beauté à couper le souffle." '''Carlo Rovelli''', ''Sept brèves leçons de physique''
+|-
+|526
+|258
+|R3
+|align="left"|À la recherche de la Longitude
+|26 sept 2020
+|align="left"|"Apercevoir un navire, perdu dans l'océan, dans la tempête, il y a longtemps. C'est le printemps de l'an 1600, au large des côtes du Japon…"
+|-
+|527
+|286
+|R2
+|align="left"|Aux origines du pain
+|3 oct 2020
+|align="left"|À travers les études et les recherches sur son invention, sa création remontant au paléolithique supérieur, les chercheurs racontent à travers le pain une part de l'histoire humaine.
+|-
+|528
+|053
+|R2
+|align="left"|Les battements du temps (14) - Comme de longs échos…
+|10 oct 2020
+|align="left"|"Comme de longs échos qui de loin se confondent […] – Les parfums, les couleurs et les sons se répondent – Il est des parfums […] – Doux comme les hautbois, verts comme les prairies, […] – Qui chantent les transports de l’esprit et des sens" '''Charles Baudelaire''',  ''Correspondances''.
+|-
+|529
+|316
+|R1
+|align="left"|Lueurs dans la nuit (1)
+|17 oct 2020
+|align="left"|Un Athanor est un four dont se servaient les alchimistes pour obtenir la pierre philosophale
+|-
+|530
+|060
+|R3
+|align="left"|Les battements du temps (21) - Dans l’ombre du danger
+|24 oct 2020
+|align="left"|Tout ce qui est dit ici arriva quelque temps avant que Mowgli quitte la horde de Loups Seeonee, et se venge lui-même de Shere Khan, le tigre… '''Rudyard Kipling'''. La chasse de Kaa, dans ''Le livre de la jungle''.
+|-
+|531
+|131
+|R1
+|align="left"|Habiter notre corps
+|31 oct 2020
+|align="left"|"L’incarnation, le fait que nous habitions notre corps, nous semble être la chose la plus certaine qui soit dans ce monde, nous semble être le seul fait irréfutable." Oliver Sacks. Hallucinations.
+|-
+|532
+|136
+|R2
+|align="left"|Enchantements et illusions (1)
+|7 nov 2020
+|align="left"|"Les mystères du mimétisme exerçaient sur moi une attirance particulière. Ces phénomènes exprimaient une perfection artistique habituellement associée aux œuvres créées par l’homme. Je découvrais dans la nature les délices gratuits que je cherchais dans l’art. Tous deux étaient une forme de magie, tous deux étaient des jeux faits d’un entremêlement d’enchantements et d’illusions." '''Vladimir Nabokov''', ''Autres rivages''.
+|-
+|533
+|264
+|R1
+|align="left"|Explorer
+|14 nov 2020
+|align="left"|"Au-dessus d’eux, les couleurs tournoient, comme la brume sur la mer. François ne bouge pas, ne pose plus aucune question. Il ne quitte pas le ciel des yeux." '''Helen Sedgwick''', ''The Comet seekers''
+|-
+|534
+|244
+|R1
+|align="left"|Mémoires
+|21 nov 2020
+|align="left"|"Il faut longtemps pour que resurgisse à la lumière ce qui a été effacé." '''Patrick Modiano''', ''Dora Bruder''
+|-
+|535
+|072
+|R1
+|align="left"|Les battements du temps (33) - L'intelligence des oiseaux
+|28 nov 2020
+|align="left"|"La Corneille ayant soif, trouva par hasard une cruche où il y avait un peu d’eau ; mais comme la cruche était trop profonde, elle n’y pouvait atteindre pour se désaltérer. Elle essaya d’abord de rompre la cruche avec son bec…" '''Ésope''', ''La Corneille et la cruche''
+|-
+|536
+|118
+|R3
+|align="left"|Le souci de l’autre
+|5 déc 2020
+|align="left"|"Les actes qui sont en accord avec la Nature, comme aider les autres, portent en eux-mêmes leur propre récompense. Comment, dans ce cas, peux-tu te lasser d’aider les autres quand, en aidant les autres, tu t’aides toi-même ?" '''Marc-Aurèle''', ''Pensées pour moi-même''
+|-
+|537
+|080
+|R2
+|align="left"|Cette étoffe sur laquelle naissent les rêves (4)
+|12 déc 2020
+|align="left"|"Bientôt pourtant, et tandis que je considère la serrure gigantesque d’une vieille porte délabrée, les objets perdent tout-à-coup leur couleur et la netteté de leurs contours, comme les figures des dioramas quand le foyer s’éloigne. Je sens que je me réveille. J’ouvre les yeux au monde réel, la clarté de ma veilleuse est la seule qui m’éclaire. Il est trois heures du matin." '''Hervey de Saint Denys''', ''Les rêves et les moyens de les diriger''
+|-
+|538
+|214
+|R3
+|align="left"|Une ancienne alliance entre un oiseau sauvage et les humains
+|19 déc 2020
+|align="left"|"La référence la plus ancienne que j’ai trouvée concernant les Grands Indicateurs et leur comportement qui consiste à guider des hommes jusqu’aux nids d’abeilles est dans un livre intitulé Ethiopie Orientale, écrit par Joao dos Santos, un missionnaire Portugais à Sofala, […] Il semble que l’oiseau avait attiré l’attention du bon père parce qu’il l’avait vu entrer par la fenêtre de l’église de sa mission, et se nourrir de petits morceaux de cire qu’il prélevait sur les cierges qui étaient sur l’autel."  '''Herbert Friedmann''', ''The Honey-guides''
+|-
+|539
+|046
+|R6
+|align="left"|Les battements du temps (7) - Nostalgie de la lumière
+|26 déc 2020
+|align="left"|"Je levais les yeux. Contempler le ciel, qui n’est pas vivant, pour tout ce qui est vivant, c’est contempler le seul aïeul." '''Pascal Quignard''', ''Les ombres errantes''
+|-
+|540
+|055
+|R4
+|align="left"|les battements du temps (16) - Un cadeau de Nouvel An
+|2 janv 2021
+|align="left"|"À partir de ce presque Rien, un minuscule atome de neige, j’ai été proche de recréer l’Univers entier, qui contient tout !" '''Johannes Kepler''', ''Etrennes ou la neige hexagonale''
+|-
+|541
+|154
+|R4
+|align="left"|Des chants appris avant de naître
+|9 janv 2021
+|align="left"|"Chez les canards sur la rive de l’Yonne […], les œufs crient trois jours avant l’éclosion. La canne qui les couve dialogue avec ces cris obscurs, de faible intensité, sans visage, qui montent au-dessous d’elle. Étrange appel à un corps autre jamais vu, à un soleil jamais vu." '''Pascal Quignard''', ''Leçons de solfège et de piano''.
+|-
+|542
+|229
+|R3
+|align="left"|Dans les abysses
+|16 janv 2021
+|align="left"|
+|-
+|543
+|212
+|R1
+|align="left"|Dans l’oubli de nos métamorphoses (1)
+|23 janv 2021
+|align="left"|"Nous vivons dans l’oubli de nos métamorphoses" '''Paul Eluard''', ''Le dur désir de durer''
+|-
+|544
+|331
+|R1
+|align="left"|L’intelligence des abeilles
+|30 janv 2021
+|align="left"|
+|-
+|545
+|151
+|R1
+|align="left"|Quand l'écho dessine les contours du monde (1)
+|6 févr 2021
+|align="left"|
+|-
+|546
+|152
+|R1
+|align="left"|Des cultures dans le monde animal
+|13 févr 2021
+|align="left"|"Il y a plus de soixante ans, Kinji Imanishi proposa l’idée que, si les animaux peuvent apprendre les uns des autres, ils vont inévitablement développer des comportements différents dans différentes populations, aboutissant à l’existence de variations ‘culturelles’ à l’intérieur d’une même espèce. C’était une hypothèse simple, mais tellement en avance sur son temps que peu de chercheurs occidentaux y prêtèrent attention. Et c’est seulement récemment que la notion de cultures animales est devenu un sujet de recherche important." '''Frans de Waal''', ''Science 2013''
+|-
+|547
+|183
+|R1
+|align="left"|La lumière et le temps (1)
+|20 févr 2021
+|align="left"|
+|-
+|548
+|119
+|R2
+|align="left"|Donner, recevoir (1)
+|27 févr 2021
+|align="left"|"Le monde subjectif est aussi un monde intersubjectif, le monde de moi et de toi, et tracer une frontière entre les deux n’est pas facile, parce que les autres font partie de nous." '''Siri Hustvedt''', ''La femme qui tremble''
+|-
+|549
+|102
+|R2
+|align="left"|Présence
+|6 mars 2021
+|align="left"|
+|-
+|550
+|279
+|R1
+|align="left"|Éclats de Passé : Les livres peints d’Amérique Centrale
+|13 mars 2021
+|align="left"|
+|-
+|551
+|238
+|R1
+|align="left"|Arpenter le monde (2)
+|20 mars 2021
+|align="left"|
+|-
+|552
+|158
+|R2
+|align="left"|Les survivants des anciens mondes (2)
+|27 mars 2021
+|align="left"|
+|-
+|553
+|320
+|R1
+|align="left"|À la découverte de la lumière invisible (1)
+|3 avr 2021
+|align="left"|
+|-
+|554
+|130
+|R2
+|align="left"|La découverte du Nouveau Monde (2)
+|10 avr 2021
+|align="left"|
+|-
+|555
+|250
+|R2
+|align="left"|Visages
+|17 avr 2021
+|align="left"|
+|-
+|556
+|257
+|R1
+|align="left"|Les horloges circadiennes
+|24 avr 2021
+|align="left"|
+|-
+|557
+|289
+|R1
+|align="left"|La bière de Sumer
+|{{1er}} mai 2021
+|align="left"|
+|-
+|558
+|105
+|R2
+|align="left"|Le passant du temps
+|8 mai 2021
+|align="left"|
+|-
+|559
+|143
+|R1
+|align="left"|Une hérédité des caractères acquis? (1)
+|15 mai 2021
+|align="left"|
+|-
+|560
+|176
+|R2
+|align="left"|Déchiffrer (3)
+|22 mai 2021
+|align="left"|
+|-
+|561
+|234
+|R3
+|align="left"|La promesse de l'aube
+|29 mai 2021
+|align="left"|
+|-
+|562
+|225
+|R2
+|align="left"|Ressentir et comprendre
+|12 juin 2021
+|align="left"|
+|-
+|563
+|338
+|R1
+|align="left"|Entre le sable et l'eau
+|19 juin 2021
+|align="left"|
+|-
+|564
+|339
+|R1
+|align="left"|La Baie d’Aboukir
+|26 juin 2021
+|align="left"|
+|-
+|565
+|153
+|R1
+|align="left"|La musique des mots
+|4 sept 2021
+|align="left"|
+|-
+|566
+|084
+|R2
+|align="left"|Le lien qui nous rattache aux autres (1)
+|11 sept 2021
+|align="left"|
+|-
+|567
+|161
+|R1
+|align="left"|Des animaux pharmaciens et médecins (2)
+|18 sept 2021
+|align="left"|
+|-
+|568
+|282
+|R1
+|align="left"|Le plomb et l'argent (1) : au commencement était le froid
+|25 sept 2021
+|align="left"|
+|-
+|569
+|284
+|R1
+|align="left"|Le plomb et l'argent (3) : des Guerres Puniques à l'éruption volcanique de Lombok
+|2 oct 2021
+|align="left"|
+|-
+|570
+|285
+|R1
+|align="left"|Le plomb et l'argent (4) : quand la géologie éclaire la santé humaine
+|9 oct 2021
+|align="left"|
+|-
+|571
+|260
+|R1
+|align="left"|À la recherche des origines du sommeil
+|16 oct 2021
+|align="left"|
+|-
+|572
+|333
+|R1
+|align="left"|À la poursuite du printemps
+|23 oct 2021
+|align="left"|
+|-
+|573
+|212
+|R2
+|align="left"|Dans l'oubli de nos métamorphoses (1)
+|30 oct 2021
+|align="left"|
+|-
+|574
+|219
+|R3
+|align="left"|La faille de Cascadia
+|6 nov 2021
+|align="left"|
+|-
+|575
+|220
+|R3
+|align="left"|Le mystérieux tsunami de 1700 au Japon
+|13 nov 2021
+|align="left"|
+|-
+|576
+|221
+|R3
+|align="left"|Des récits et des masques
+|20 nov 2021
+|align="left"|
+|-
+|577
+|080
+|R3
+|align="left"|Cette étoffe sur laquelle naissent les rêves (4)
+|27 nov 2021
+|align="left"|
+|-
+|578
+|337
+|R1
+|align="left"|Entre le ciel et l'eau (2)
+|4 dec 2021
+|align="left"|
+|-
+|579
+|203
+|R2
+|align="left"|À la découverte de la radioactivité
+|11 dec 2021
+|align="left"|
+|-
+|580
+|204
+|R2
+|align="left"|Marie Curie
+|18 dec 2021
+|align="left"|
+|-
+|581
+|167
+|R2
+|align="left"|Soi-même en train de vivre (1)
+|25 dec 2021
+|align="left"|
+|-
+|582
+|55
+|R5
+|align="left"|Les battements du temps (16) - Un cadeau de Nouvel An
+|1 janv 2022
+|align="left"|
+|-
+|583
+|261
+|R1
+|align="left"|À la recherche des mystères du sommeil (1)
+|8 janv 2022
+|align="left"|
+|-
+|584
+|262
+|R3
+|align="left"|À la recherche des mystères du sommeil (2)
+|15 janv 2022
+|align="left"|
+|-
+|585
+|263
+|R3
+|align="left"|À la recherche des mystères du sommeil (3)
+|22 janv 2022
+|align="left"|
+|-
+|586
+|215
+|R3
+|align="left"|À la rencontre de la Pensée chinoise (1)
+|29 janv 2022
+|align="left"|
+|-
+|587
+|216
+|R3
+|align="left"|À la rencontre de la Pensée chinoise (2)
+|5 fev 2022
+|align="left"|
+|-
+|588
+|217
+|R3
+|align="left"|Déluges
+|12 fev 2022
+|align="left"|
+|-
+|589
+|198
+|R1
+|align="left"|Un abominable mystère
+|19 fev 2022
+|align="left"|
+|-
+|590
+|199
+|R1
+|align="left"|Darwin et le problème de l'âge de la Terre (1)
+|26 fev 2022
+|align="left"|
+|-
+|591
+|200
+|R1
+|align="left"|Darwin et le problème de l'âge de la Terre (2)
+|5 mars 2022
+|align="left"|
+|-
+|592
+|201
+|R1
+|align="left"|Darwin et le problème de l'âge de la Terre (3)
+|12 mars 2022
+|align="left"|
+|-
+|593
+|109
+|R1
+|align="left"|L'âme de l'été
+|19 mars 2022
+|align="left"|
+|-
+|594
+|041
+|R2
+|align="left"|Les battements du temps (2)
+|26 mars 2022
+|align="left"|
+|-
+|595
+|272
+|R3
+|align="left"|Éclats de passé : avec Homère pour guide
+|2 avril 2022
+|align="left"|
+|-
+|596
+|088
+|R1
+|align="left"|Le lien qui nous rattache aux autres (5)
+|9 avril 2022
+|align="left"|
+|-
+|597
+|064
+|R2
+|align="left"|Les battements du temps (25) - Éclats de mondes disparus (2)
+|16 avril 2022
+|align="left"|
+|-
+|598
+|146
+|R3
+|align="left"|La glace et le feu
+|23 avril 2022
+|align="left"|
+|-
+|599
+|091
+|R2
+|align="left"|Le lien qui nous rattache aux autres (8)
+|30 avril 2022
+|align="left"|
+|-
+|600
+|133
+|R2
+|align="left"|Présences
+|7 mai 2022
+|align="left"|
+|-
+|601
+|057
+|R1
+|align="left"|Les battements du temps (18) - More is different
+|14 mai 2022
+|align="left"|
+|-
+|602
+|051
+|R2
+|align="left"|Les battements du temps (12) - "Ce n'était pas en moi, c'était moi…"
+|21 mai 2022
+|align="left"|
+|-
+|603
+|234
+|R4
+|align="left"|La promesse de l'aube
+|28 mai 2022
+|align="left"|
+|-
+|604
+|044
+|R2
+|align="left"|Les battements du temps (5) - Les vagabonds du ciel
+|4 juin 2022
+|align="left"|
+|-
+|605
+|116
+|R2
+|align="left"|Quand la science rencontre l'art
+|11 juin 2022
+|align="left"|
+|-
+|606
+|106
+|R2
+|align="left"|Traces
+|18 juin 2022
+|align="left"|
+|-
+|607
+|039
+|R3
+|align="left"|Renaissance
+|25 juin 2022
+|align="left"|
+|}
+{{boîte déroulante/fin}}
+
+== Audience ==
+D'après [[Médiamétrie]], sur la période de janvier à {{date-||mars|2019}}, l'émission ''Sur les épaules de Darwin'' fait de [[France Inter]] la première de toutes les radios en audience cumulée sur la tranche horaire de l'époque (11h à 12h) le samedi, l'émission étant écoutée par {{unité|1529000|auditeurs}}<ref>{{lien web|titre=Sur les épaules de Darwin - Le chant des grenouilles|url=https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-27-avril-2019|site=www.franceinter.fr|auteur institutionnel=France Inter|date=27 avril 2019|consulté le=27 octobre 2019}}.</ref>.
+
+== Distinction ==
+Le {{date|4|septembre|2013}}, le Grand Prix des Médias 2013 de [[CB News]] a décerné à cette émission le ''Prix de la meilleure émission de radio''<ref>{{Lien web |langue=fr |url= http://www.cbnews.fr/medias/the-voice-triomphe-au-grand-prix-des-medias-a107686 |titre= The Voice triomphe au Grand Prix des Médias |auteur1= Frédéric Roy |éditeur= [[CB News]] | date = 5 septembre 2013 | consulté le = 25 août 2016}}</ref>.
+
+== Bibliographie ==
+*[[Jean Claude Ameisen]], ''Sur les épaules de Darwin. Les battements du temps''. [[France Inter]]/[[Les liens qui libèrent]], 2012, 444p.
+*[[Jean Claude Ameisen]], ''Sur les épaules de Darwin. Je t'offrirai des spectacles admirables''. [[France Inter]]/[[Les liens qui libèrent]], 2013, 448p.
+*[[Jean Claude Ameisen]], ''Sur les épaules de Darwin : Retrouver l'aube''. [[France Inter]]/[[Les liens qui libèrent]], 2014, 448p.
+*[[Jean Claude Ameisen]], [[Nicolas Truong]], ''Les chants mêlés de la Terre et de l’humanité''. [[Éditions de l'Aube]], 2015, 112p<ref>{{Lien web |langue=fr |url=http://livre.fnac.com/a9056352/Jean-Claude-Ameisen-Les-chants-meles-de-la-Terre-et-de-l-humanite|titre=Fnac, Les chants mêlés de la Terre et de l’humanité|auteur1=Jean Claude Ameisen|auteur2=Nicolas Truong|éditeur=[[Éditions de l'Aube]] | date = 5 nov 2015 | consulté le = 22 déc. 2016}}</ref>.
+
+== Notes et références ==
+{{Références}}
+
+== Liens externes ==
+*[https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin Site de l'émission ''Sur les épaules de Darwin'']
+
+{{Palette|France Inter|Émissions scientifiques}}
+{{Portail|radio|sciences}}
+
+[[Catégorie:Programme du samedi]]
+[[Catégorie:Programme de jour]]
+[[Catégorie:Émission de radio depuis la France]]
+[[Catégorie:Émission de radio en français]]
+[[Catégorie:Émission de science et technologie à la radio]]
+[[Catégorie:Ancienne émission de France Inter]]
+[[Catégorie:Émission de radio créée en 2010]]
+[[Catégorie:Podcast radiophonique]]
+[[Catégorie:Émission de radio disparue en 2022]]
