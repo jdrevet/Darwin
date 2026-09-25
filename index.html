@@ -34,6 +34,7 @@
         <option value="1">Rediffusées ≥ 1 fois</option>
         <option value="2">Rediffusées ≥ 2 fois</option>
         <option value="3">Rediffusées ≥ 3 fois</option>
+        <option value="4">Rediffusées ≥ 4 fois</option>
       </select>
       <button id="reset" type="button">Réinitialiser</button>
     </div>
@@ -50,7 +51,7 @@
           <th data-sort="series">Série</th>
           <th data-sort="firstBroadcast">Date</th>
           <th data-sort="durationSeconds" class="num">Durée</th>
-          <th data-sort="rerunCount" class="num" title="Nombre de rediffusions">Rediff.</th>
+          <th data-sort="rerunCount" class="num center" title="Nombre de rediffusions">Rediff.</th>
           <th>Sujets</th>
         </tr>
       </thead>
@@ -59,8 +60,7 @@
   </main>
 
   <footer>
-    Données : <a href="https://fr.wikipedia.org/wiki/Sur_les_%C3%A9paules_de_Darwin">Wikipédia</a>
-    et <a href="https://www.radiofrance.fr/franceinter/podcasts/sur-les-epaules-de-darwin">radiofrance.fr</a>,
+    Données : <a href="https://www.radiofrance.fr/franceinter/podcasts/sur-les-epaules-de-darwin">radiofrance.fr</a>,
     extraites le <span id="generated"></span>. Site non officiel.
   </footer>
 </body>

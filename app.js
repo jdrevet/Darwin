@@ -194,7 +194,7 @@ function rowHtml(e) {
     <td class="series">${e.series ? `<button type="button" class="link" data-series="${esc(e.series.name)}">${esc(e.series.name)}</button> <span class="muted">${e.series.part}</span>` : ''}</td>
     <td class="date">${fmtDate(e.firstBroadcast)}</td>
     <td class="num">${fmtDuration(e.durationSeconds)}</td>
-    <td class="num">${reruns}</td>
+    <td class="num center">${reruns}</td>
     <td class="topics">${e.topics.map((t) => `<button type="button" class="chip" data-topic="${esc(t)}">${esc(t)}</button>`).join('')}</td>
   </tr>`;
 }
